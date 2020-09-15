@@ -1,0 +1,20 @@
+Adguard Filters:
+https://filters.adtidy.org/android/filters/2_optimized.txt
+https://filters.adtidy.org/android/filters/3_optimized.txt
+https://filters.adtidy.org/android/filters/11_optimized.txt
+https://filters.adtidy.org/android/filters/14_optimized.txt
+
+Language Filters:
+https://filters.adtidy.org/android/filters/1_optimized.txt
+https://filters.adtidy.org/android/filters/6_optimized.txt
+https://filters.adtidy.org/android/filters/7_optimized.txt
+https://filters.adtidy.org/android/filters/224_optimized.txt
+https://easylist-downloads.adblockplus.org/cntblock.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
+https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
+
+Other Filters:
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://secure.fanboy.co.nz/enhancedstats.txt
+
+
