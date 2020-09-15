@@ -1,0 +1,7 @@
+!facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Friend Requests$/i))
+!facebook.com##div[data-pagelet^="FeedUnit_"]:has(div:has-text(/^Suggested Groups$/i))
+!metro.co.uk##.clearfix.more-posts-thumbs
+!metro.co.uk##.yellow.label.more-title
+!wikipedia.org###siteNotice
+!www.dagbladet.no##.logo:has(svg[width="24"][height="24"]):not(:has(polygon)):nth-ancestor(3)
+!www.firda.no##.premium-logo:nth-ancestor(4)
