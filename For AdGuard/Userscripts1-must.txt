@@ -1,0 +1,12 @@
+https://openuserjs.org/scripts/navchandar/Google_Image_Direct_View
+https://openuserjs.org/install/navchandar/Google_Image_Direct_View.user.js
+
+https://openuserjs.org/scripts/navchandar/Share_Less_-_URL_tracking_remover
+https://openuserjs.org/install/navchandar/Share_Less_-_URL_tracking_remover.user.js
+
+https://openuserjs.org/scripts/nokeya/Direct_links_out
+https://openuserjs.org/install/nokeya/Direct_links_out.user.js
+
+https://greasyfork.org/scripts/18491-ads-dom-remover/code/Ads%20DOM%20Remover.user.js
+
+https://greasyfork.org/scripts/382482-assassinate-ad-block-blockers/code/Assassinate%20Ad%20Block%20Blockers.user.js
