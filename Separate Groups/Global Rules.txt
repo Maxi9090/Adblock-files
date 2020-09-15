@@ -1,0 +1,4 @@
+*###ezmobfooter
+*##.adsbygoogle
+*##.adunit-wrapper
+*##.ezoic-ad
