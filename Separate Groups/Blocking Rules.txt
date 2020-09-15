@@ -1,0 +1,8 @@
+||comicbook.com/article/json/*$xhr,1p
+||e24.no/stilling/carousel$subdocument
+||i1.wp.com/media.criticalhit.net/*2020/06/last-of-us-part-2-w.jpg$image
+||media.criticalhit.net//2020/07/Triangle-Grey-Background-Wallpaper-1.jpg$image
+||www.indiegalacdn.com//home_slider/techland-sale-slider-20200902.jpg$image
+||www.indiegalacdn.com/website/commons/misc/bg.png$image
+||www.techporn.ph/wp-content/uploads/ASUS-Ad-052020-3.jpg$image
+||www.youtube.com/iframe_api$script,domain=www.indiegala.com,important
