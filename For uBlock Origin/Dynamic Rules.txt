@@ -1,0 +1,34 @@
+no-cosmetic-filtering: accounts.google.com true
+no-cosmetic-filtering: docs.google.com true
+no-cosmetic-filtering: drive.google.com true
+no-cosmetic-filtering: fonts.google.com true
+no-cosmetic-filtering: groups.google.com true
+no-cosmetic-filtering: mail.google.com true
+no-cosmetic-filtering: myaccount.google.com true
+no-cosmetic-filtering: play.google.com true
+no-cosmetic-filtering: remotedesktop.google.com true
+no-cosmetic-filtering: skylum.com true
+no-cosmetic-filtering: support.google.com true
+no-cosmetic-filtering: translate.google.com true
+no-cosmetic-filtering: translate.google.no true
+no-cosmetic-filtering: www.asus.com true
+no-cosmetic-filtering: www.fanatical.com true
+no-cosmetic-filtering: www.google.com true
+no-cosmetic-filtering: www.google.no true
+no-strict-blocking: cdn.exponea.com true
+no-strict-blocking: cloudflare-dns.com true
+no-strict-blocking: openuserjs.org true
+no-strict-blocking: otf.msn.com true
+no-strict-blocking: ppcprotect.com true
+no-strict-blocking: s.click.aliexpress.com true
+no-strict-blocking: vectorstock.com true
+no-strict-blocking: www.addthis.com true
+no-strict-blocking: www.codecguide.com true
+no-strict-blocking: www.fabuloussavers.com true
+cloudflare-dns.com cloudflare-dns.com * allow
+new.reddit.com apis.google.com * noop
+new.reddit.com new.reddit.com * noop
+new.reddit.com www.redditstatic.com * noop
+reddit.com www.reddit.com * noop
+reddit.com www.redditmedia.com * noop
+reddit.com www.redditstatic.com * noop
