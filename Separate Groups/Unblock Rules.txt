@@ -4,7 +4,6 @@
 @@||edge.avangate.net^$image,domain=store.iobit.com
 @@||ezoic.net^$domain=stealthyninjas.com|www.power.no
 @@||matomo.isthereanydeal.com^$domain=isthereanydeal.com
-@@||openuserjs.org^$domain=openuserjs.org
 @@||sm.pcmag.com^$image,1p
 @@||static.pushsquare.com/themes/base/javascript/fingerprint.js$domain=www.pushsquare.com
 @@||www.addthis.com^$domain=www.addthis.com
