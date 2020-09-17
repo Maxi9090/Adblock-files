@@ -15,6 +15,3 @@ https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Fre
 
 Other Filters:
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
-https://secure.fanboy.co.nz/enhancedstats.txt
-
-
