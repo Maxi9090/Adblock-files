@@ -1,3 +1,10 @@
+https://filters.adavoid.org/ultimate-ad-filter.txt
+
+Additional Filters:
+https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
+
 Language Filters:
 https://filters.adtidy.org/android/filters/1.txt
 https://filters.adtidy.org/android/filters/6.txt
@@ -9,6 +16,12 @@ https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
 
 Other Filters:
+https://block.energized.pro/blu/formats/filter
+https://block.energized.pro/extensions/porn-lite/formats/filter
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://raw.githubusercontent.com/AFNIL-AntiFakeNewsInternationalList/AFNIL/master/AFNIL-ABP-uBO.txt
+https://github.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
+
 https://jspenguin2017.github.io/uBlockProtector/
