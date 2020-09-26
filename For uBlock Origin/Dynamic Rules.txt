@@ -12,6 +12,7 @@ no-cosmetic-filtering: support.google.com true
 no-cosmetic-filtering: translate.google.com true
 no-cosmetic-filtering: translate.google.no true
 no-cosmetic-filtering: www.asus.com true
+no-cosmetic-filtering: www.curseforge.com true
 no-cosmetic-filtering: www.fanatical.com true
 no-cosmetic-filtering: www.google.com true
 no-cosmetic-filtering: www.google.no true
@@ -26,4 +27,10 @@ no-strict-blocking: www.addthis.com true
 no-strict-blocking: www.codecguide.com true
 no-strict-blocking: www.fabuloussavers.com true
 cloudflare-dns.com cloudflare-dns.com * allow
+new.reddit.com apis.google.com * noop
+new.reddit.com new.reddit.com * noop
+new.reddit.com www.redditstatic.com * noop
 openuserjs.org openuserjs.org * allow
+reddit.com www.reddit.com * noop
+reddit.com www.redditmedia.com * noop
+reddit.com www.redditstatic.com * noop
