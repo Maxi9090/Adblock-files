@@ -2,10 +2,11 @@
 ! Version: 0.08
 ! Title: User Rules
 ! Description: My personal filter rules
-! TimeUpdated: 2020-09-26T14:00:00
+! Last modified: 26 Sep 2020 17:00 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/Maxi9090/Adblock-files
 ! License: https://unlicense.org
+
 *###ezmobfooter
 *##.adsbygoogle
 *##.adunit-wrapper
@@ -148,6 +149,7 @@ thinkmobiles.com##.commentsInfoBlock.post-comment
 thinkmobiles.com##.post-comment__content
 thinkmobiles.com##div.top-software
 timesofindia.indiatimes.com##.gbhmV
+tomstek.us##.code-block
 trd.by###content > .sectiontitle.polarisNavigation
 trd.by###content > div.x5x5.gridRow
 trd.by##.polarisMarketing
@@ -345,6 +347,7 @@ www.themobileindian.com##div.amp-ad
 www.thesaurus.com###marketingBanner-right-button
 www.thetechlounge.com##.mashsb-container > .mashsb-toggle-container > .wpforms-container > .wpforms-form > .wpforms-field-container:nth-ancestor(4)
 www.thetopsites.net##.entry > div [href] img
+www.timeanddate.com###ad1
 www.trustedreviews.com##.slot-wrapper--full.slot-wrapper
 www.trustpilot.com##.advert
 www.tu.no##.after-comments > .two-thirds.column
