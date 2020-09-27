@@ -3,6 +3,7 @@
 @@||display.ugc.bazaarvoice.com^
 @@||edge.avangate.net^$image,domain=store.iobit.com
 @@||ezoic.net^$domain=stealthyninjas.com|www.power.no
+@@||gql.reddit.com^$domain=new.reddit.com
 @@||matomo.isthereanydeal.com^$domain=isthereanydeal.com
 @@||sm.pcmag.com^$image,1p
 @@||static.pushsquare.com/themes/base/javascript/fingerprint.js$domain=www.pushsquare.com
