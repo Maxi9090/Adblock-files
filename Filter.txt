@@ -2,7 +2,7 @@
 ! Version: 0.08
 ! Title: User Rules
 ! Description: My personal filter rules
-! Last modified: 26 Sep 2020 17:00 UTC
+! Last modified: 27 Sep 2020 01:30 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/Maxi9090/Adblock-files
 ! License: https://unlicense.org
@@ -16,6 +16,7 @@
 @@||display.ugc.bazaarvoice.com^
 @@||edge.avangate.net^$image,domain=store.iobit.com
 @@||ezoic.net^$domain=stealthyninjas.com|www.power.no
+@@||gql.reddit.com^$domain=new.reddit.com
 @@||matomo.isthereanydeal.com^$domain=isthereanydeal.com
 @@||openuserjs.org^$domain=openuserjs.org
 @@||sm.pcmag.com^$image,1p
