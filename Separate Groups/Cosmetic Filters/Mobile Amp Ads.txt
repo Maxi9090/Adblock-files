@@ -1,1 +1,30 @@
-
+ampproject.org##.ad-wrapper
+ampproject.org##.ad-zone-container
+ampproject.org##.clearfix.widget.trending-main
+ampproject.org##.connatix-container
+ampproject.org##.follow-promo > a > amp-img:nth-ancestor(2)
+ampproject.org##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+ampproject.org##.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.newzit-embed.iframe-autoheight.metro-iframe
+ampproject.org##.outbrain-wrapper
+ampproject.org##.share-button
+ampproject.org##.zone-post-strip > .zopo-more:nth-ancestor(1)
+ampproject.org##div.metro-amp-ad-outer
+arstechnica.com##amp-embed.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+gadgets.ndtv.com##.clear > .i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+metro.co.uk##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+metro.co.uk##.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.newzit-embed.iframe-autoheight.metro-iframe
+metro.co.uk##div.metro-amp-ad-outer
+www.computerworld.com##.body-wrapper > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+www.deseret.com##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element:not(.image):not(.i-amphtml-replaced-content):not(.i-amphtml-fill-content)
+www.firstpost.com##.amp-unresolved.i-amphtml-unresolved
+www.firstpost.com##amp-fx-flying-carpet
+www.gizchina.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.pcgamer.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+www.pcgamer.com##amp-ad
+www.techradar.com##.articleBody.row > .i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+www.techradar.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined
+www.themobileindian.com##.i-amphtml-layout.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+www.themobileindian.com##div.amp-ad
+www.xda-developers.com##.amp-ad-alignment
+www.xda-developers.com##.amp-ad-bannerxda.amp-ad-in-content
+www.xda-developers.com##.amp-wp-content > div.amp-ad-alignment > .i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed
