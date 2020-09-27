@@ -1,0 +1,9 @@
+careerkarma.com##.share-main > .social
+www.criticalhit.net##.sd-sharing.sd-social
+www.itechtics.com###social-rocket-floating-buttons
+www.raymond.cc##div[class^="et_social"]
+www.rottentomatoes.com###social-tools
+www.techwalla.com##.vertical.social-share-icons
+www.tu.no##.sticky-social-share.bottom.visible
+www.xda-developers.com##.et_social_inline_bottom.et_social_mobile_on.et_social_inline
+www.xda-developers.com##.et_social_share
