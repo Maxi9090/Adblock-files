@@ -1,1 +1,6 @@
-
+css-tricks.com##.footer-newsletter.site-footer
+www.a2hosting.com##.newsletter-block
+www.huffpost.com##.newsletter
+www.massiveepicfail.com##.g1-newsletter-as-row
+www.medicalnewstoday.com##.undefined.article-body > div:has-text(newsletter):has-text(SIGN UP NOW)
+www.tasteofhome.com##.newsletter-sign-below-header
