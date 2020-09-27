@@ -27,10 +27,4 @@ no-strict-blocking: www.addthis.com true
 no-strict-blocking: www.codecguide.com true
 no-strict-blocking: www.fabuloussavers.com true
 cloudflare-dns.com cloudflare-dns.com * allow
-new.reddit.com apis.google.com * noop
-new.reddit.com new.reddit.com * noop
-new.reddit.com www.redditstatic.com * noop
 openuserjs.org openuserjs.org * allow
-reddit.com www.reddit.com * noop
-reddit.com www.redditmedia.com * noop
-reddit.com www.redditstatic.com * noop
