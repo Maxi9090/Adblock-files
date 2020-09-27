@@ -1,0 +1,3 @@
+arstechnica.com##.ad-footer
+arstechnica.com##.ad-hero
+arstechnica.com##.cne-interlude.cne
