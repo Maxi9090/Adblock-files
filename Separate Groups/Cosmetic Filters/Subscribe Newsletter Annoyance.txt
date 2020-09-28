@@ -1,0 +1,22 @@
+css-tricks.com##.footer-newsletter.site-footer
+dbader.org##.email-cta-box
+e24.no##div div div div div div div.wrapper:has-text(nyhetsbrev)
+pureinfotech.com###newswrapper
+searchengineland.com###sidebar-form
+searchengineland.com##.masthead-column > .masthead-form
+searchengineland.com##.row.subscribe
+wccftech.com##.clearfix.subscribe
+www.a2hosting.com##.article-subscribe.subscribe
+www.a2hosting.com##.newsletter-block
+www.britannica.com##.marketing-content
+www.healthline.com##form > div > .css-11k39sg
+www.huffpost.com##.newsletter
+www.itechtics.com##.jetpack_subscription_widget
+www.massiveepicfail.com##.g1-newsletter-as-row
+www.medicalnewstoday.com##.undefined.article-body > div:has-text(newsletter):has-text(SIGN UP NOW)
+www.meftech.com.au##[class*="g1-newsletter"]
+www.pcmag.com##div > [id^="email-form"]:nth-ancestor(5):has-text(newsletter)
+www.pcworld.idg.com.au###quick-signup-article-widget
+www.tasteofhome.com###ads-container-single
+www.tasteofhome.com##.newsletter-sign-below-header
+www.thetechlounge.com##.mashsb-container
