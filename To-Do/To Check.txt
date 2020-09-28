@@ -1,3 +1,70 @@
 arstechnica.com##.ad-footer
 arstechnica.com##.ad-hero
 arstechnica.com##.cne-interlude.cne
+business.tutsplus.com##figure.post_image > [href="https://tutsplus.com/presentations-ebook"]
+careerkarma.com##.cf.entry-content.post-content > div
+careerkarma.com##.code-block > .p-8
+careerkarma.com##.is_ck_sidebar > a[href^="https://careerkarma.com/apply"]:nth-ancestor(1)
+comicbook.com###player-position
+coop.no##.full-width-wrapper
+e24.no##div.css-0 > .withoutMargin.fullWidth.default
+fandom.com###gamepedia_notice
+fandom.com##.WikiaTopAdsInner
+fandom.com##.wikia-ad
+fragmeta.com##div.wp-block-spacer
+gadgets.ndtv.com##.newshindiwgt
+gadgets.ndtv.com##div.taboola.innerContainer
+imgur.com##.Taboola-ad.Ad
+metro.co.uk##.follow-promo > a > img:nth-ancestor(2)
+pcmag.com###adkit
+pcmag.com##div.adkit
+pureinfotech.com##.top-rvzone
+pureinfotech.com##[class$="-ad"]
+slickdeals.net##.modal-modern.modal
+slickdeals.net##.sdModalOverlay
+thinkmobiles.com##.commentsInfoBlock.post-comment
+thinkmobiles.com##.post-comment__content
+thinkmobiles.com##div.top-software
+trd.by###content > .sectiontitle.polarisNavigation
+wccftech.com##p.wccf_related_post
+www.adressa.no###content > div.html.polarisCode.widget .header:nth-ancestor(2)
+www.adressa.no##.cxm_forsideunderartikkel.currentFrontpage
+www.back2gaming.com###skin_container
+www.dagbladet.no##.AdWrapper-vmcudn-0
+www.dagbladet.no##.native-advertisement
+www.deseret.com##.ad-wrapper
+www.deseret.com##.article__share-buttons
+www.deseret.com##div.related-stories
+www.firda.no##.am-factBox-main
+www.firda.no##.am-skin--white.am-skin--color.maelstrom--imageFull.am-articleItem
+www.firstpost.com###nxt_article
+www.firstpost.com##.ad-section
+www.firstpost.com##.next-article
+www.firstpost.com##.next-btn-strip
+www.firstpost.com##[class*="fx-flying-carpet"]
+www.forbes.com##.link-embed.embed-base
+www.gizchina.com###externalinject-gpt-passback-container
+www.gizchina.com##.mrf-lazyDetails--extras
+www.healthline.com##.css-1rx43lg
+www.healthline.com##.css-vaj3vd
+www.healthline.com##div.css-c9zd8s
+www.huffpost.com##.rail--right.rail.entry__right-rail
+www.independent.co.uk##.jw-reset.jw-aspect
+www.makeuseof.com##.ad-zone-container
+www.prisjakt.no##.top-ads.eTNtpj.TopAds-sc-1qv2fq1-2
+www.proshop.no##.visible-lg.site-left-banner
+www.proshop.no##.visible-lg.site-right-banner
+www.pushsquare.com##.insert-label
+www.samsung.com###LiveChatDialogConfirm
+www.sdxcentral.com##.lemur.sponsored.featured-media
+www.tasteofhome.com##.sidebar.pure-u-lg-8-24.pure-u-1
+www.tasteofhome.com##section.full-width-ad
+www.tasteofhome.com##section.pure-u-lg-14-24.pure-u-1 > .custom-html-widget.textwidget
+www.techporn.ph##.ai-close-fit.ai-close.ai-center-h.code-block-2.code-block
+www.techporn.ph##.td-pb-row.wpb_row.tdi_76_0e9.vc_row
+www.techporn.ph##.td_spot_img_all
+www.thetopsites.net##.entry > div [href] img
+www.trustpilot.com##.advert
+www.tu.no##.tujobs-featured-ad,.tujobs-text-ad,.tujobs-ad,.tujobs-carousel-ad
+www.windowscentral.com##center > p > .norewrite:nth-ancestor(2)
+www.wired.com##.persistent-aside--align-left.persistent-aside
