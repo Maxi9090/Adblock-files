@@ -1,0 +1,10 @@
+bjorn3d.com###check-also-box.show-check-also
+careerkarma.com##.ant-modal > .ant-modal-content > .ant-modal-body:nth-ancestor(2)
+fragmeta.com##.jeg_popup_post
+play3r.net##.td-front-end-display-block.td-more-articles-box
+support.logmeininc.com##.care-qualtrics-survey, .showSurvey, .care-qualtrics-survey__container
+www.criticalhit.net###bdCheckAlso
+www.criticalhit.net##.gotop
+www.lydogbilde.no##.popup-overlay
+www.tasteofhome.com##div > .jw-reset.jw-wrapper > .jw-reset.jw-aspect
+www.wired.com##.persistent-bottom > .paywall-bar

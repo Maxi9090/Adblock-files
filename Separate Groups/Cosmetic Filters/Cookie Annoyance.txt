@@ -1,0 +1,13 @@
+bitsum.com###eu-cookie-law
+downloadbytes.com###eu-cookie-law
+gamewith.net##.cookie-consent.js-cookie-consent
+phandroid.com###cookie-law-info-bar > span
+www.bungie.net###cookie-consent.on
+www.bungie.net##[class^="CookieConsent"]
+www.digminecraft.com###consent
+www.gizchina.com###cookie-notice
+www.independent.co.uk###qc-cmp2-ui
+www.independent.co.uk##.qc-cmp-cleanslate
+www.mytrendyphone.no###cookie_alert
+www.thetechlounge.com###cliSettingsPopup
+www.thetechlounge.com###cookie-law-info-bar
