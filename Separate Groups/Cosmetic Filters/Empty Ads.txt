@@ -5,6 +5,7 @@ comicbook.com##.js-videoEmbed.embedVideoContainer.popculture-embed
 dongknows.com##.generate-back-to-top
 extratime.media###sidebar
 extratime.media###snack_ldb
+fandom.com##.WikiaTopAdsInner
 forum.kvinneguiden.no###topAdContainer
 gadgets.ndtv.com##.adhead
 gamewith.net##div.c-rectangle-ad-wrap
