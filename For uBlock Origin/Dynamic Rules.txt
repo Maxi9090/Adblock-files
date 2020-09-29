@@ -26,6 +26,8 @@ no-strict-blocking: vectorstock.com true
 no-strict-blocking: www.addthis.com true
 no-strict-blocking: www.codecguide.com true
 no-strict-blocking: www.fabuloussavers.com true
+no-strict-blocking: www.xnview.com true
 cloudflare-dns.com cloudflare-dns.com * allow
 openuserjs.org openuserjs.org * allow
 www.sythe.org img.sythe.org * allow
+www.xnview.com www.xnview.com * allow
