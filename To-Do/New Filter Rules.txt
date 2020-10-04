@@ -1,0 +1,9 @@
+fandom.com##.WikiaTopAdsInner
+www.auslogics.com###popup.modal-container
+answers.microsoft.com##.footeroutside
+www.ecoustics.com##.zox-post-bot-ad
+x1337x.ws###M90304ScriptRootC221935
+www.programmersought.com##div[id*="ads"]
+www.g2g.com###cookie-notice
+www.speedguide.net##div[id*="-ad-"]
+www.speedguide.net##body > div:nth-of-type(4)
