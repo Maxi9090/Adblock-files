@@ -10,3 +10,7 @@ www.speedguide.net##body > div:nth-of-type(4)
 @@||xp.apple.com^$xhr,domain=music.apple.com
 @@||music.apple.com/assets/*$domain=music.apple.com
 www.baeldung.com##.flex-col.sidebar
+fandom.com##[class$="-ads"]
+www.cbsnews.com##.recirculation
+www.cbsnews.com##.newsletter_signup
+www.cbsnews.com###component-newsletter-widget-breakingnews
