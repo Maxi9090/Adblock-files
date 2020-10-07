@@ -14,3 +14,5 @@ fandom.com##[class$="-ads"]
 www.cbsnews.com##.recirculation
 www.cbsnews.com##.newsletter_signup
 www.cbsnews.com###component-newsletter-widget-breakingnews
+facebook.com##:xpath(//*[(text()[contains(.,'Sponsored')])]/../../../..)
+facebook.com##:xpath(//*[(text()[contains(.,'Still Available on Marketplace')])]/../../../../../..)
