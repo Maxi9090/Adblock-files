@@ -16,3 +16,10 @@ www.cbsnews.com##.newsletter_signup
 www.cbsnews.com###component-newsletter-widget-breakingnews
 facebook.com##:xpath(//*[(text()[contains(.,'Sponsored')])]/../../../..)
 facebook.com##:xpath(//*[(text()[contains(.,'Still Available on Marketplace')])]/../../../../../..)
+yoolando.com##.adwish-wrapper
+www.elkjop.no##div.even-flex.no-row.mini-product-list
+www.reviewed.com##.email-signup__container.container
+www.reviewed.com##.tbrn-article__related-content-container
+www.newsbreak.com###__next > .mask
+www.newsbreak.com##.body-wrapper > div > .back-top-wrapper > .fixed-wrapper:nth-ancestor(2)
+www.newsbreak.com##div.docCard > .no-padding.no-shadow
