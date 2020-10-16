@@ -8,12 +8,10 @@ https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
 Language Filters:
 https://filters.adtidy.org/android/filters/1.txt
 https://filters.adtidy.org/android/filters/6.txt
-https://filters.adtidy.org/android/filters/7.txt
 https://filters.adtidy.org/android/filters/224.txt
 https://filters.adtidy.org/extension/ublock/filters/213.txt
 https://easylist-downloads.adblockplus.org/cntblock.txt
 https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
-https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
 
 Other Filters:
 https://block.energized.pro/blu/formats/filter
