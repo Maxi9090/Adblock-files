@@ -8,5 +8,6 @@ www.auslogics.com###popup.modal-container
 www.criticalhit.net###bdCheckAlso
 www.criticalhit.net##.gotop
 www.lydogbilde.no##.popup-overlay
+www.newsbreak.com##.body-wrapper > div > .back-top-wrapper > .fixed-wrapper:nth-ancestor(2)
 www.tasteofhome.com##div > .jw-reset.jw-wrapper > .jw-reset.jw-aspect
 www.wired.com##.persistent-bottom > .paywall-bar
