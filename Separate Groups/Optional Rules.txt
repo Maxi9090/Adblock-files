@@ -1,3 +1,5 @@
+facebook.com##:xpath(//*[(text()[contains(.,'Sponsored')])]/../../../..)
+facebook.com##:xpath(//*[(text()[contains(.,'Still Available on Marketplace')])]/../../../../../..)
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Friend Requests$/i))
 facebook.com##div[data-pagelet^="FeedUnit_"]:has(div:has-text(/^Suggested Groups$/i))
 metro.co.uk##.clearfix.more-posts-thumbs
