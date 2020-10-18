@@ -394,3 +394,4 @@ yoolando.com##.adwish-wrapper
 ||www.indiegalacdn.com/website/commons/misc/bg.png$image
 ||www.techporn.ph/wp-content/uploads/ASUS-Ad-052020-3.jpg$image
 ||www.youtube.com/iframe_api$script,domain=www.indiegala.com,important
+!e
