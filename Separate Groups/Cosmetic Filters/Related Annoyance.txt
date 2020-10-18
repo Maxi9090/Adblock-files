@@ -22,6 +22,7 @@ www.aftenposten.no##a.extendedContent
 www.amazon.com###rhf-shoveler
 www.borsen.no##.body-copy > article.preview
 www.britannica.com##.border.quiz-module.info-module
+www.cbsnews.com##.recirculation
 www.dagbladet.no##.body-copy > article.preview
 www.dailymail.co.uk###infinite-list
 www.dailymail.co.uk##.cleared.articleWide > .beta
@@ -31,7 +32,9 @@ www.dinside.no##.body-copy > article.preview > [href] > header > .headline:nth-a
 www.guidingtech.com##.campaign-ad
 www.makeuseof.com##[class^="related"]
 www.nettavisen.no##p > b:has-text(Les også:)
+www.newsbreak.com##div.docCard > .no-padding.no-shadow
 www.pcworld.idg.com.au##aside.readmore
+www.reviewed.com##.tbrn-article__related-content-container
 www.tu.no##.recirculation.frontpage
 www.tu.no##.related-article-placeholder.related-article > .link.flex > .text > .headline:nth-ancestor(3)
 www.vg.no##a.css-coupcp.inline
