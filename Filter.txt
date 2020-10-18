@@ -35,6 +35,7 @@ answers.microsoft.com##.footeroutside
 arstechnica.com##.inline-playlist
 arstechnica.com##.prev-next-links
 arstechnica.com##.xrail
+arstechnica.com##amp-embed.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 bitsum.com###eu-cookie-law
 bjorn3d.com###check-also-box.show-check-also
 bjorn3d.com##.adplugg.widget
@@ -64,8 +65,6 @@ extratime.media##div.ct-hidden-md.ct-hidden-sm.ct-share-box
 facebook.com##:xpath(//*[(text()[contains(.,'Sponsored')])]/../../../..)
 facebook.com##div[data-pagelet^="FeedUnit"]:has([role^=button]:has(> span:has-text(S)):not(:has-text(1)):not(:has-text(2)):not(:has-text(3)):not(:has-text(4)):not(:has-text(5)):not(:has-text(6)):not(:has-text(7)):not(:has-text(8)):not(span:has-text(9)):not(span:has-text(w)))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may like$/i))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may like$/i))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
 fandom.com###WikiaBar
 fandom.com###mixed-content-footer
@@ -89,6 +88,7 @@ helpx.adobe.com###helpful-pod
 helpx.adobe.com##.feds-drawer
 imgur.com##.BottomAd-container
 imgur.com##.ad-slot
+indianexpress.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 indianexpress.com##.js-btm-nav
 isthereanydeal.com###promo
 istouchidhackedyet.com##.custom.mks_adswidget_ul
@@ -195,6 +195,7 @@ www.cbsnews.com###component-newsletter-widget-breakingnews
 www.cbsnews.com##.newsletter_signup
 www.cbsnews.com##.recirculation
 www.computerworld.com##.ad-container
+www.computerworld.com##.body-wrapper > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.computerworld.com##.fakesidebar-auto
 www.criticalhit.net###bdCheckAlso
 www.criticalhit.net###reading-position-indicator
@@ -232,6 +233,7 @@ www.ecoustics.com##.zox-post-bot-ad
 www.elbil24.no##.body-copy > article.preview
 www.essentiallysports.com##.relatedpost
 www.express.co.uk##.clear.two-related-articles.box
+www.express.co.uk##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.express.co.uk##.mf.n
 www.express.co.uk##.new-style.clearfix > div.clear.tra.box
 www.express.co.uk##.ns-videoplayer.dx.video-player-container
@@ -294,6 +296,7 @@ www.newsbreak.com##div.docCard > .no-padding.no-shadow
 www.nexusmods.com##.clearfix.video-ad
 www.nexusmods.com##div.clearfix.agroup
 www.nitecorestore.com##.shipping-deal
+www.pcgamer.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.pcgamer.com##amp-ad
 www.pcmag.com##div > [id^="email-form"]:nth-ancestor(5):has-text(newsletter)
 www.pcworld.idg.com.au###float_leaderboard_bottom
@@ -330,6 +333,7 @@ www.snbforums.com##.leaderboard_snbad
 www.snbforums.com##.widget-container.widget-group-no-name.section
 www.speedguide.net##body > div:nth-of-type(4)
 www.speedguide.net##div[id*="-ad-"]
+www.sportbible.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.tasteofhome.com###ads-container-single
 www.tasteofhome.com###flipboard-share
 www.tasteofhome.com##.at-element-marker.CMRightRail-AD
@@ -340,6 +344,7 @@ www.tasteofhome.com##div > .jw-reset.jw-wrapper > .jw-reset.jw-aspect
 www.techporn.ph##.code-block
 www.techradar.com##.articleBody.row > .i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 www.techradar.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined
+www.techrepublic.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.techrepublic.com##.story-body > p > strong:nth-ancestor(1)
 www.techwalla.com##.component-article-jwplayer-wrapper
 www.techwalla.com##.vertical.social-share-icons
@@ -367,6 +372,7 @@ www.vg.no##.advert-wrap
 www.vg.no##.skyscraper-wrap
 www.vg.no##a.css-coupcp.inline
 www.whathifi.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-flex-item.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.whathifi.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.whathifi.com##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
 www.windowscentral.com##.row > .sidebar
 www.wired.com##.grid-full-bleed.grid-items-2.grid-margins.grid
