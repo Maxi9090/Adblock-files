@@ -1,4 +1,5 @@
 3dsecure.sbanken.no
+account.capcom.com
 account.daybreakgames.com
 account.live.com
 account.microsoft.com
@@ -9,12 +10,13 @@ account.xbox.com
 accounts.epicgames.com
 accounts.paradoxplaza.com
 acs3.3dsecure.no
-adguard.com
 api.vipps.no
 api.wirecard.com
 app.klarna.com
 bandcamp.com
+checkout.bambora.com
 checkout.stripe.com
+cid.capcom.com
 club.ubisoft.com
 contacts.api.postnord.no
 discordapp.com
@@ -22,6 +24,7 @@ downloadcenter.intel.com
 duckduckgo.com
 estore.iobit.com
 fallback.steamworkshopdownloader.io
+forums.xbox.com
 gg.deals
 github.com
 gleam.io
@@ -35,6 +38,7 @@ login.komplettid.com
 login.live.com
 login.nvgs.nvidia.com
 minhelse.helsenorge.no
+mudfish.net
 my.account.sony.com
 myaccount.ea.com
 nettbanken.nordea.no
@@ -63,7 +67,7 @@ store.steampowered.com
 store.ubi.com
 ucp.nordvpn.com
 users.nexusmods.com
-v1.checkout.bambora.com
+vanillatweaks.net
 wol.jw.org
 www.aid.no
 www.altinn.no
@@ -71,6 +75,7 @@ www.blivakker.no
 www.bolle-safety.com
 www.dropbox.com
 www.epicgames.com
+www.gog.com
 www.jw.org
 www.mysteamgauge.com
 www.nav.no
@@ -78,6 +83,7 @@ www.nordea.no
 www.nvidia.com
 www.paypal.com
 www.politiet.no
+www.privacytools.io
 www.quiverquant.com
 www.skatteetaten.no
 www.testufo.com
