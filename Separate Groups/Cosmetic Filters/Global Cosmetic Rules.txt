@@ -2,3 +2,4 @@
 *##.adsbygoogle
 *##.adunit-wrapper
 *##.ezoic-ad
+*##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
