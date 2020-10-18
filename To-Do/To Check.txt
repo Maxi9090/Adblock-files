@@ -29,6 +29,7 @@ trd.by###content > .sectiontitle.polarisNavigation
 wccftech.com##p.wccf_related_post
 www.adressa.no###content > div.html.polarisCode.widget .header:nth-ancestor(2)
 www.adressa.no##.cxm_forsideunderartikkel.currentFrontpage
+www.auslogics.com###popup.modal-container
 www.back2gaming.com###skin_container
 www.dagbladet.no##.AdWrapper-vmcudn-0
 www.dagbladet.no##.native-advertisement
@@ -51,6 +52,7 @@ www.healthline.com##div.css-c9zd8s
 www.huffpost.com##.rail--right.rail.entry__right-rail
 www.independent.co.uk##.jw-reset.jw-aspect
 www.makeuseof.com##.ad-zone-container
+www.newsbreak.com###__next > .mask
 www.prisjakt.no##.top-ads.eTNtpj.TopAds-sc-1qv2fq1-2
 www.proshop.no##.visible-lg.site-left-banner
 www.proshop.no##.visible-lg.site-right-banner
