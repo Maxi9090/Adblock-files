@@ -28,12 +28,16 @@ www.deseret.com##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-am
 www.dinside.no##.AdWrapper__AdBase-sc-13mqeo1-0
 www.dinside.no##.adunit
 www.dinside.no##.slide-in-banner.mobile-only.slide-in-banner > .close-icon > svg:nth-ancestor(2)
+www.express.co.uk##.clear.ra.box
+www.express.co.uk##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 www.express.co.uk##.new-style.clearfix > div.clear.tra.box
 www.firda.no##smart-banner
 www.firstpost.com##.amp-unresolved.i-amphtml-unresolved
+www.firstpost.com##.next-btn-strip
 www.firstpost.com##amp-fx-flying-carpet
 www.gizchina.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 www.pcgamer.com##amp-ad
+www.polygon.com##.i-amphtml-layout.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
 www.techradar.com##.articleBody.row > .i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 www.techradar.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined
 www.themobileindian.com##.i-amphtml-layout.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
