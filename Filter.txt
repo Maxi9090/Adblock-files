@@ -2,6 +2,7 @@
 *##.adsbygoogle
 *##.adunit-wrapper
 *##.ezoic-ad
+*##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 @@||cdn.shortpixel.ai^$image
 @@||dagbladet.no^$domain=www.dagbladet.no
 @@||display.ugc.bazaarvoice.com^
@@ -11,6 +12,7 @@
 @@||matomo.isthereanydeal.com^$domain=isthereanydeal.com
 @@||music.apple.com/assets/*$domain=music.apple.com
 @@||openuserjs.org^$domain=openuserjs.org
+@@||schibsted.com^$domain=www.tek.no
 @@||sm.pcmag.com^$image,1p
 @@||static.pushsquare.com/themes/base/javascript/fingerprint.js$domain=www.pushsquare.com
 @@||www.addthis.com^$domain=www.addthis.com
@@ -33,7 +35,6 @@ answers.microsoft.com##.footeroutside
 arstechnica.com##.inline-playlist
 arstechnica.com##.prev-next-links
 arstechnica.com##.xrail
-arstechnica.com##amp-embed.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 bitsum.com###eu-cookie-law
 bjorn3d.com###check-also-box.show-check-also
 bjorn3d.com##.adplugg.widget
@@ -63,6 +64,8 @@ extratime.media##div.ct-hidden-md.ct-hidden-sm.ct-share-box
 facebook.com##:xpath(//*[(text()[contains(.,'Sponsored')])]/../../../..)
 facebook.com##div[data-pagelet^="FeedUnit"]:has([role^=button]:has(> span:has-text(S)):not(:has-text(1)):not(:has-text(2)):not(:has-text(3)):not(:has-text(4)):not(:has-text(5)):not(:has-text(6)):not(:has-text(7)):not(:has-text(8)):not(span:has-text(9)):not(span:has-text(w)))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may like$/i))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may like$/i))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
 fandom.com###WikiaBar
 fandom.com###mixed-content-footer
@@ -86,6 +89,7 @@ helpx.adobe.com###helpful-pod
 helpx.adobe.com##.feds-drawer
 imgur.com##.BottomAd-container
 imgur.com##.ad-slot
+indianexpress.com##.js-btm-nav
 isthereanydeal.com###promo
 istouchidhackedyet.com##.custom.mks_adswidget_ul
 leitesculinaria.com##.ad-wrap
@@ -130,6 +134,8 @@ software.informer.com##div.si_block
 stackoverflow.com##div.js-sidebar-zone
 support.logmeininc.com##.care-qualtrics-survey, .showSurvey, .care-qualtrics-survey__container
 tencomputer.com##.is-sticked.ruby-sidebar-sticky
+thenextweb.com##.i-amphtml-layout.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+thenextweb.com##.newsletter
 timesofindia.indiatimes.com##.gbhmV
 timesofindia.indiatimes.com##div.rel.clearfix > ._2364r > ._3S4xf._39qub
 timesofindia.indiatimes.com##div.rel.clearfix > ._2364r > div._133P8:has-text(Navbharat Times)
@@ -145,6 +151,9 @@ windowsreport.com##.wl-navigator__bottom
 windowsreport.com##div.wr-layout-section > .wr-layout-section__ad
 www.a2hosting.com##.article-subscribe.subscribe
 www.a2hosting.com##.newsletter-block
+www.abcnyheter.no##.visible.o-layout__module.c-jump-next
+www.abcnyheter.no##div.dp-plugin-related
+www.abcnyheter.no##p > b:nth-ancestor(1)
 www.adressa.no##.mnd-big.default.polarisStories.widget
 www.adressa.no##.polarisMarketing.widget
 www.aftenbladet.no###recommended
@@ -180,11 +189,13 @@ www.britannica.com##.toolbar-ad
 www.britannica.com##.video-ad-container
 www.bungie.net###cookie-consent.on
 www.bungie.net##[class^="CookieConsent"]
+www.businessinsider.com##.popular-video
+www.businessinsider.com##.product-card
 www.cbsnews.com###component-newsletter-widget-breakingnews
 www.cbsnews.com##.newsletter_signup
 www.cbsnews.com##.recirculation
 www.computerworld.com##.ad-container
-www.computerworld.com##.body-wrapper > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+www.computerworld.com##.fakesidebar-auto
 www.criticalhit.net###bdCheckAlso
 www.criticalhit.net###reading-position-indicator
 www.criticalhit.net##.bdaia-post-sharing
@@ -196,10 +207,13 @@ www.dailymail.co.uk###infinite-list
 www.dailymail.co.uk###swipeIndicator.show
 www.dailymail.co.uk##.cleared.articleWide > .beta
 www.dailymail.co.uk##.heading-tag-switch > div [href*="newzit"] [class*="promo"]:nth-ancestor(6)
+www.dailymail.co.uk##.more
+www.dailymail.co.uk##.news.vjs-responsive.vjs-video-container
 www.dailymail.co.uk##div.news.vjs-video-container > .vjs-visually-ready.mol-empty-playlist.no-volume-slider.vjs-paused:nth-ancestor(3)
 www.deseret.com##.c-compact-river
 www.deseret.com##.c-read-more
 www.deseret.com##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element:not(.image):not(.i-amphtml-replaced-content):not(.i-amphtml-fill-content)
+www.deseret.com##div.related-stories
 www.deseret.com##div[class$="_ad"]
 www.digminecraft.com###consent
 www.digminecraft.com##.bottom_slot.slot
@@ -215,6 +229,17 @@ www.dinside.no##.slide-in-banner.mobile-only.slide-in-banner > .close-icon > svg
 www.discogs.com###page_aside > div.section > .tall.section_content
 www.discogs.com##.ad_container
 www.ecoustics.com##.zox-post-bot-ad
+www.elbil24.no##.body-copy > article.preview
+www.essentiallysports.com##.relatedpost
+www.express.co.uk##.clear.two-related-articles.box
+www.express.co.uk##.mf.n
+www.express.co.uk##.new-style.clearfix > div.clear.tra.box
+www.express.co.uk##.ns-videoplayer.dx.video-player-container
+www.express.co.uk##.rh
+www.express.co.uk##.right-column
+www.express.co.uk##.right.box
+www.express.co.uk##p > strong:nth-ancestor(1)
+www.express.co.uk##section.box
 www.firda.no##.am-ad-item
 www.firda.no##.am-bazaar-ad
 www.firda.no##smart-banner
@@ -262,13 +287,13 @@ www.minecraftforum.net##.ad-container
 www.minecraftforum.net##.xt-placement
 www.mytrendyphone.no###cookie_alert
 www.mytrendyphone.no##.verticalSliderWrapper.featuredList.topHeadline
+www.nettavisen.no##amedia-include
 www.nettavisen.no##p > b:has-text(Les også:)
 www.newsbreak.com##.body-wrapper > div > .back-top-wrapper > .fixed-wrapper:nth-ancestor(2)
 www.newsbreak.com##div.docCard > .no-padding.no-shadow
 www.nexusmods.com##.clearfix.video-ad
 www.nexusmods.com##div.clearfix.agroup
 www.nitecorestore.com##.shipping-deal
-www.pcgamer.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.pcgamer.com##amp-ad
 www.pcmag.com##div > [id^="email-form"]:nth-ancestor(5):has-text(newsletter)
 www.pcworld.idg.com.au###float_leaderboard_bottom
@@ -292,8 +317,14 @@ www.reviewed.com##.email-signup__container.container
 www.reviewed.com##.tbrn-article__related-content-container
 www.rottentomatoes.com###social-tools
 www.sdxcentral.com##.lemur > .lemur-link:nth-ancestor(2)
+www.searchenginewatch.com##.bottom.fixed
+www.searchenginewatch.com##.inline-whitepaper-promo-content
+www.searchenginewatch.com##.single-post__sidebar-promo
 www.shacknews.com##.active.takeover-skin
 www.shacknews.com##.side-rail-container > .vert.internal.ad
+www.smarthomebeginner.com##.artl-cnt.cntn-wrp > blockquote
+www.smarthomebeginner.com##.relatedpost
+www.smarthomebeginner.com##.ss-ic.s_stk > ul
 www.snbforums.com##.js-replyNewMessageContainer.block-body > div
 www.snbforums.com##.leaderboard_snbad
 www.snbforums.com##.widget-container.widget-group-no-name.section
@@ -309,10 +340,12 @@ www.tasteofhome.com##div > .jw-reset.jw-wrapper > .jw-reset.jw-aspect
 www.techporn.ph##.code-block
 www.techradar.com##.articleBody.row > .i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 www.techradar.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined
+www.techrepublic.com##.story-body > p > strong:nth-ancestor(1)
 www.techwalla.com##.component-article-jwplayer-wrapper
 www.techwalla.com##.vertical.social-share-icons
 www.techwalla.com##div[class*="-ad"]
 www.techwalla.com##div[class*="ad-"]
+www.tek.no##a > div:has-text(Les også)
 www.tenforums.com##.adunit
 www.themobileindian.com##.i-amphtml-layout.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
 www.themobileindian.com##div.amp-ad
@@ -320,6 +353,8 @@ www.thesaurus.com###marketingBanner-right-button
 www.thetechlounge.com###cliSettingsPopup
 www.thetechlounge.com###cookie-law-info-bar
 www.thetechlounge.com##.mashsb-container
+www.theverge.com##.i-amphtml-layout.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+www.theverge.com##.related-stories
 www.trustedreviews.com##.slot-wrapper--full.slot-wrapper
 www.tu.no##.after-comments > .two-thirds.column
 www.tu.no##.inline-preamble-link.preamble
@@ -331,6 +366,8 @@ www.urldecoder.org##.adsbypublift
 www.vg.no##.advert-wrap
 www.vg.no##.skyscraper-wrap
 www.vg.no##a.css-coupcp.inline
+www.whathifi.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-flex-item.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.whathifi.com##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
 www.windowscentral.com##.row > .sidebar
 www.wired.com##.grid-full-bleed.grid-items-2.grid-margins.grid
 www.wired.com##.grid-layout__aside.grid--item
