@@ -1,5 +1,6 @@
 facebook.com##:xpath(//*[(text()[contains(.,'Sponsored')])]/../../../..)
 facebook.com##:xpath(//*[(text()[contains(.,'Still Available on Marketplace')])]/../../../../../..)
+facebook.com##div[data-pagelet^="FeedUnit"]:has([role^=button]:has(> span:has-text(S)):not(:has-text(1)):not(:has-text(2)):not(:has-text(3)):not(:has-text(4)):not(:has-text(5)):not(:has-text(6)):not(:has-text(7)):not(:has-text(8)):not(span:has-text(9)):not(span:has-text(w)))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Friend Requests$/i))
 facebook.com##div[data-pagelet^="FeedUnit_"]:has(div:has-text(/^Suggested Groups$/i))
 metro.co.uk##.clearfix.more-posts-thumbs
