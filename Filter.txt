@@ -9,7 +9,6 @@
 @@||ezoic.net^$domain=stealthyninjas.com|www.power.no
 @@||gql.reddit.com^$domain=new.reddit.com
 @@||matomo.isthereanydeal.com^$domain=isthereanydeal.com
-@@||openuserjs.org^$domain=openuserjs.org
 @@||music.apple.com/assets/*$domain=music.apple.com
 @@||openuserjs.org^$domain=openuserjs.org
 @@||sm.pcmag.com^$image,1p
