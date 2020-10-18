@@ -9,6 +9,7 @@
 @@||ezoic.net^$domain=stealthyninjas.com|www.power.no
 @@||gql.reddit.com^$domain=new.reddit.com
 @@||matomo.isthereanydeal.com^$domain=isthereanydeal.com
+@@||openuserjs.org^$domain=openuserjs.org
 @@||music.apple.com/assets/*$domain=music.apple.com
 @@||openuserjs.org^$domain=openuserjs.org
 @@||sm.pcmag.com^$image,1p
@@ -60,6 +61,7 @@ e24.no##div div div div div div div.wrapper:has-text(nyhetsbrev)
 extratime.media###sidebar
 extratime.media###snack_ldb
 extratime.media##div.ct-hidden-md.ct-hidden-sm.ct-share-box
+facebook.com##:xpath(//*[(text()[contains(.,'Sponsored')])]/../../../..)
 facebook.com##div[data-pagelet^="FeedUnit"]:has([role^=button]:has(> span:has-text(S)):not(:has-text(1)):not(:has-text(2)):not(:has-text(3)):not(:has-text(4)):not(:has-text(5)):not(:has-text(6)):not(:has-text(7)):not(:has-text(8)):not(span:has-text(9)):not(span:has-text(w)))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may like$/i))
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
