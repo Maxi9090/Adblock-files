@@ -4,9 +4,6 @@ e-methodstechnologies.com##div.read-also-post
 e-methodstechnologies.com##div.recommend-post-blog
 e24.no##a.inline.imagePosition-top:has-text(Les )
 e24.no##div div div div div div div.css-0 > .default
-facebook.com##div[data-pagelet^="FeedUnit"]:has([role^=button]:has(> span:has-text(S)):not(:has-text(1)):not(:has-text(2)):not(:has-text(3)):not(:has-text(4)):not(:has-text(5)):not(:has-text(6)):not(:has-text(7)):not(:has-text(8)):not(span:has-text(9)):not(span:has-text(w)))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may like$/i))
-facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
 fandom.com###mixed-content-footer
 gadgets.ndtv.com##.margin_b30.photo_list_widget.nlist
 linustechtips.com##li.ipsBox.ipsWidget_vertical > .lmg-card.ipsPad.ipsWidget_inner
