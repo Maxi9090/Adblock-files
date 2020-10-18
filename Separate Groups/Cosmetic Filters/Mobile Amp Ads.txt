@@ -9,7 +9,6 @@ ampproject.org##.outbrain-wrapper
 ampproject.org##.share-button
 ampproject.org##.zone-post-strip > .zopo-more:nth-ancestor(1)
 ampproject.org##div.metro-amp-ad-outer
-arstechnica.com##amp-embed.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 gadgets.ndtv.com##.__wdgt_rhs_kpc
 gadgets.ndtv.com##._ftdapp > a[href]:nth-of-type(3)
 gadgets.ndtv.com##._ftdapp > div._hd:nth-of-type(2)
@@ -18,10 +17,10 @@ metro.co.uk##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notb
 metro.co.uk##.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.newzit-embed.iframe-autoheight.metro-iframe
 metro.co.uk##.share-button
 metro.co.uk##div.metro-amp-ad-outer
+thenextweb.com##.i-amphtml-layout.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
 www.androidauthority.com###scrolled_view_bar
 www.androidauthority.com##.aa-bottom-header-section
 www.computerworld.com##.ad-container
-www.computerworld.com##.body-wrapper > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.dailymail.co.uk###swipeIndicator.show
 www.dailymail.co.uk##.heading-tag-switch > div [href*="newzit"] [class*="promo"]:nth-ancestor(6)
 www.dailymail.co.uk##div.news.vjs-video-container > .vjs-visually-ready.mol-empty-playlist.no-volume-slider.vjs-paused:nth-ancestor(3)
@@ -29,16 +28,19 @@ www.deseret.com##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-am
 www.dinside.no##.AdWrapper__AdBase-sc-13mqeo1-0
 www.dinside.no##.adunit
 www.dinside.no##.slide-in-banner.mobile-only.slide-in-banner > .close-icon > svg:nth-ancestor(2)
+www.express.co.uk##.new-style.clearfix > div.clear.tra.box
 www.firda.no##smart-banner
 www.firstpost.com##.amp-unresolved.i-amphtml-unresolved
 www.firstpost.com##amp-fx-flying-carpet
 www.gizchina.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
-www.pcgamer.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.pcgamer.com##amp-ad
 www.techradar.com##.articleBody.row > .i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 www.techradar.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined
 www.themobileindian.com##.i-amphtml-layout.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
 www.themobileindian.com##div.amp-ad
+www.theverge.com##.i-amphtml-layout.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+www.whathifi.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-flex-item.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.whathifi.com##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
 www.xda-developers.com##.amp-ad-alignment
 www.xda-developers.com##.amp-ad-bannerxda.amp-ad-in-content
 www.xda-developers.com##.amp-wp-content > div.amp-ad-alignment > .i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed
