@@ -6,6 +6,9 @@ css-tricks.com##.end-of-article-ads
 css-tricks.com##.respond > .comment-form-form-area > .comment-respond > .comment-form > .comment-form-comment:nth-ancestor(4)
 dbader.org##.right-section > div:has(.rpad) > div
 dbader.org##article > div:has(.rpad) > div
+facebook.com##:xpath(//*[(text()[contains(.,'Sponsored')])]/../../../..)
+facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may like$/i))
+facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
 fandom.com###WikiaBar
 fragmeta.com##.ads-wrapper
 gadgets.ndtv.com##.ads
