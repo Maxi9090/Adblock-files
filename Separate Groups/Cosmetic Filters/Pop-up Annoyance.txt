@@ -4,6 +4,7 @@ careerkarma.com##.ant-modal > .ant-modal-content > .ant-modal-body:nth-ancestor(
 fragmeta.com##.jeg_popup_post
 play3r.net##.td-front-end-display-block.td-more-articles-box
 support.logmeininc.com##.care-qualtrics-survey, .showSurvey, .care-qualtrics-survey__container
+www.abcnyheter.no##.visible.o-layout__module.c-jump-next
 www.auslogics.com###popup.modal-container
 www.criticalhit.net###bdCheckAlso
 www.criticalhit.net##.gotop
