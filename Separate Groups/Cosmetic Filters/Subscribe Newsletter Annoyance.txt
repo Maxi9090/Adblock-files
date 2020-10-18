@@ -5,6 +5,7 @@ pureinfotech.com###newswrapper
 searchengineland.com###sidebar-form
 searchengineland.com##.masthead-column > .masthead-form
 searchengineland.com##.row.subscribe
+thenextweb.com##.newsletter
 wccftech.com##.clearfix.subscribe
 www.a2hosting.com##.article-subscribe.subscribe
 www.a2hosting.com##.newsletter-block
@@ -20,6 +21,7 @@ www.meftech.com.au##[class*="g1-newsletter"]
 www.pcmag.com##div > [id^="email-form"]:nth-ancestor(5):has-text(newsletter)
 www.pcworld.idg.com.au###quick-signup-article-widget
 www.reviewed.com##.email-signup__container.container
+www.searchenginewatch.com##.single-post__sidebar-promo
 www.tasteofhome.com###ads-container-single
 www.tasteofhome.com##.newsletter-sign-below-header
 www.thetechlounge.com##.mashsb-container
