@@ -36,6 +36,7 @@ www.guidingtech.com##.hide-sm-upto.resetcoords.detail-sidebar
 www.guru3d.com##.content3 > div:nth-of-type(2)
 www.healthline.com##.css-11iztoc
 www.kitguru.net###bg_url_kg.background-cover
+www.magnetdl.com##[src="/img/nor.png"]
 www.mytrendyphone.no##.verticalSliderWrapper.featuredList.topHeadline
 www.nitecorestore.com##.shipping-deal
 www.pcworld.idg.com.au###footerbar
