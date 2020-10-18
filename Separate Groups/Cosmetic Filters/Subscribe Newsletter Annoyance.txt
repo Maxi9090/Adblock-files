@@ -9,6 +9,8 @@ wccftech.com##.clearfix.subscribe
 www.a2hosting.com##.article-subscribe.subscribe
 www.a2hosting.com##.newsletter-block
 www.britannica.com##.marketing-content
+www.cbsnews.com###component-newsletter-widget-breakingnews
+www.cbsnews.com##.newsletter_signup
 www.healthline.com##form > div > .css-11k39sg
 www.huffpost.com##.newsletter
 www.itechtics.com##.jetpack_subscription_widget
@@ -17,6 +19,7 @@ www.medicalnewstoday.com##.undefined.article-body > div:has-text(newsletter):has
 www.meftech.com.au##[class*="g1-newsletter"]
 www.pcmag.com##div > [id^="email-form"]:nth-ancestor(5):has-text(newsletter)
 www.pcworld.idg.com.au###quick-signup-article-widget
+www.reviewed.com##.email-signup__container.container
 www.tasteofhome.com###ads-container-single
 www.tasteofhome.com##.newsletter-sign-below-header
 www.thetechlounge.com##.mashsb-container
