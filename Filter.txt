@@ -232,8 +232,10 @@ www.discogs.com##.ad_container
 www.ecoustics.com##.zox-post-bot-ad
 www.elbil24.no##.body-copy > article.preview
 www.essentiallysports.com##.relatedpost
+www.express.co.uk##.clear.ra.box
 www.express.co.uk##.clear.two-related-articles.box
 www.express.co.uk##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+www.express.co.uk##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 www.express.co.uk##.mf.n
 www.express.co.uk##.new-style.clearfix > div.clear.tra.box
 www.express.co.uk##.ns-videoplayer.dx.video-player-container
@@ -246,6 +248,7 @@ www.firda.no##.am-ad-item
 www.firda.no##.am-bazaar-ad
 www.firda.no##smart-banner
 www.firstpost.com##.amp-unresolved.i-amphtml-unresolved
+www.firstpost.com##.next-btn-strip
 www.firstpost.com##amp-fx-flying-carpet
 www.g2g.com###cookie-notice
 www.gadgetguy.com.au##.gpt-ad
@@ -308,6 +311,7 @@ www.pocket-lint.com##.ads-content
 www.pocket-lint.com##.im-desktop.block-leader.block
 www.pocket-lint.com##.squirrel_widget
 www.pocket-lint.com##div.sticky_parent
+www.polygon.com##.i-amphtml-layout.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
 www.programmersought.com##div[id*="ads"]
 www.proshop.no##.hidden-xs.row
 www.proshop.no##div > .site-row-margin-top-small.row > .col-sm-12:nth-ancestor(1)
@@ -394,4 +398,3 @@ yoolando.com##.adwish-wrapper
 ||www.indiegalacdn.com/website/commons/misc/bg.png$image
 ||www.techporn.ph/wp-content/uploads/ASUS-Ad-052020-3.jpg$image
 ||www.youtube.com/iframe_api$script,domain=www.indiegala.com,important
-!e
