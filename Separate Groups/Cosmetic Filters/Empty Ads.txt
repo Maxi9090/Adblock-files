@@ -6,6 +6,7 @@ dongknows.com##.generate-back-to-top
 extratime.media###sidebar
 extratime.media###snack_ldb
 fandom.com##.WikiaTopAdsInner
+fandom.com##[class$="-ads"]
 forum.kvinneguiden.no###topAdContainer
 gadgets.ndtv.com##.adhead
 gamewith.net##div.c-rectangle-ad-wrap
@@ -44,6 +45,7 @@ www.androidauthority.com###native-ad-a
 www.arthritis.org##.pageAd
 www.avforums.com##.adHeader
 www.back2gaming.com##._ning_link.strack_cli
+www.baeldung.com##.flex-col.sidebar
 www.baltimoresun.com##.relative.pb-ad-prod.pb-ad
 www.base64decode.org##.adsbycrispox
 www.borsen.no##.AdWrapper-vmcudn-0
@@ -57,6 +59,7 @@ www.digminecraft.com##.left_slot.slot
 www.digminecraft.com##.top_slot.slot
 www.discogs.com###page_aside > div.section > .tall.section_content
 www.discogs.com##.ad_container
+www.ecoustics.com##.zox-post-bot-ad
 www.firda.no##.am-ad-item
 www.firda.no##.am-bazaar-ad
 www.gadgetguy.com.au##.gpt-ad
@@ -84,6 +87,7 @@ www.pocket-lint.com##.ads-content
 www.pocket-lint.com##.im-desktop.block-leader.block
 www.pocket-lint.com##.squirrel_widget
 www.pocket-lint.com##div.sticky_parent
+www.programmersought.com##div[id*="ads"]
 www.proshop.no##.hidden-xs.row
 www.psychologytoday.com##.advertisement-label
 www.psychologytoday.com##.block-pt-ads
@@ -92,6 +96,8 @@ www.raymond.cc##div[id$="_3-0"]
 www.snbforums.com##.js-replyNewMessageContainer.block-body > div
 www.snbforums.com##.leaderboard_snbad
 www.snbforums.com##.widget-container.widget-group-no-name.section
+www.speedguide.net##body > div:nth-of-type(4)
+www.speedguide.net##div[id*="-ad-"]
 www.techwalla.com##div[class*="-ad"]
 www.techwalla.com##div[class*="ad-"]
 www.tenforums.com##.adunit
@@ -102,3 +108,5 @@ www.vg.no##.advert-wrap
 www.vg.no##.skyscraper-wrap
 www.windowscentral.com##.row > .sidebar
 www.wired.com##.grid-full-bleed.grid-items-2.grid-margins.grid
+x1337x.ws###M90304ScriptRootC221935
+yoolando.com##.adwish-wrapper
