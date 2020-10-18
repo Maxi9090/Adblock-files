@@ -5,6 +5,7 @@ phandroid.com###cookie-law-info-bar > span
 www.bungie.net###cookie-consent.on
 www.bungie.net##[class^="CookieConsent"]
 www.digminecraft.com###consent
+www.g2g.com###cookie-notice
 www.gizchina.com###cookie-notice
 www.independent.co.uk###qc-cmp2-ui
 www.independent.co.uk##.qc-cmp-cleanslate
