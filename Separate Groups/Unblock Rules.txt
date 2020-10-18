@@ -5,8 +5,10 @@
 @@||ezoic.net^$domain=stealthyninjas.com|www.power.no
 @@||gql.reddit.com^$domain=new.reddit.com
 @@||matomo.isthereanydeal.com^$domain=isthereanydeal.com
+@@||music.apple.com/assets/*$domain=music.apple.com
 @@||sm.pcmag.com^$image,1p
 @@||static.pushsquare.com/themes/base/javascript/fingerprint.js$domain=www.pushsquare.com
 @@||www.addthis.com^$domain=www.addthis.com
 @@||www.magnetdl.com^$domain=www.magnetdl.com
+@@||xp.apple.com^$xhr,domain=music.apple.com
 @@||yotpo.com^$domain=www.gymgrossisten.com|www.gymgrossisten.no
