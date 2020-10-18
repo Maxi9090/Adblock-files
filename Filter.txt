@@ -1,12 +1,3 @@
-[Adblock Plus 2.0]
-! Version: 0.09
-! Title: User Rules
-! Description: My personal filter rules
-! Last modified: 28 Sep 2020 05:30 UTC
-! Expires: 7 days (update frequency)
-! Homepage: https://github.com/Maxi9090/Adblock-files
-! License: https://unlicense.org
-
 *###ezmobfooter
 *##.adsbygoogle
 *##.adunit-wrapper
@@ -18,11 +9,13 @@
 @@||ezoic.net^$domain=stealthyninjas.com|www.power.no
 @@||gql.reddit.com^$domain=new.reddit.com
 @@||matomo.isthereanydeal.com^$domain=isthereanydeal.com
+@@||music.apple.com/assets/*$domain=music.apple.com
 @@||openuserjs.org^$domain=openuserjs.org
 @@||sm.pcmag.com^$image,1p
 @@||static.pushsquare.com/themes/base/javascript/fingerprint.js$domain=www.pushsquare.com
 @@||www.addthis.com^$domain=www.addthis.com
 @@||www.magnetdl.com^$domain=www.magnetdl.com
+@@||xp.apple.com^$xhr,domain=music.apple.com
 @@||yotpo.com^$domain=www.gymgrossisten.com|www.gymgrossisten.no
 alternativeto.net##[id^="div-gpt-ad-"].banner
 ampproject.org##.ad-wrapper
@@ -36,6 +29,7 @@ ampproject.org##.outbrain-wrapper
 ampproject.org##.share-button
 ampproject.org##.zone-post-strip > .zopo-more:nth-ancestor(1)
 ampproject.org##div.metro-amp-ad-outer
+answers.microsoft.com##.footeroutside
 arstechnica.com##.inline-playlist
 arstechnica.com##.prev-next-links
 arstechnica.com##.xrail
@@ -71,6 +65,8 @@ facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Events you may li
 facebook.com##div[data-pagelet^="FeedUnit"]:has(div:has-text(/^Suggested for You$/i))
 fandom.com###WikiaBar
 fandom.com###mixed-content-footer
+fandom.com##.WikiaTopAdsInner
+fandom.com##[class$="-ads"]
 forum.kvinneguiden.no###topAdContainer
 fragmeta.com##.ads-wrapper
 fragmeta.com##.jeg_popup_post
@@ -163,11 +159,13 @@ www.androidauthority.com###scrolled_view_bar
 www.androidauthority.com##.aa-bottom-header-section
 www.arthritis.org##.contributeBar-bar
 www.arthritis.org##.pageAd
+www.auslogics.com###popup.modal-container
 www.avforums.com##.adHeader
 www.avforums.com##.p-body-sidebar
 www.back2gaming.com##._ning_inner
 www.back2gaming.com##._ning_link.strack_cli
 www.back2gaming.com##.clearfix.zeen-widget.sidebar-widget.w-nt.h-ni
+www.baeldung.com##.flex-col.sidebar
 www.baltimoresun.com##.relative.pb-ad-prod.pb-ad
 www.base64decode.org##.adsbycrispox
 www.borsen.no##.AdWrapper-vmcudn-0
@@ -181,6 +179,9 @@ www.britannica.com##.toolbar-ad
 www.britannica.com##.video-ad-container
 www.bungie.net###cookie-consent.on
 www.bungie.net##[class^="CookieConsent"]
+www.cbsnews.com###component-newsletter-widget-breakingnews
+www.cbsnews.com##.newsletter_signup
+www.cbsnews.com##.recirculation
 www.computerworld.com##.ad-container
 www.computerworld.com##.body-wrapper > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
 www.criticalhit.net###bdCheckAlso
@@ -212,11 +213,13 @@ www.dinside.no##.row.article-footer > div.column
 www.dinside.no##.slide-in-banner.mobile-only.slide-in-banner > .close-icon > svg:nth-ancestor(2)
 www.discogs.com###page_aside > div.section > .tall.section_content
 www.discogs.com##.ad_container
+www.ecoustics.com##.zox-post-bot-ad
 www.firda.no##.am-ad-item
 www.firda.no##.am-bazaar-ad
 www.firda.no##smart-banner
 www.firstpost.com##.amp-unresolved.i-amphtml-unresolved
 www.firstpost.com##amp-fx-flying-carpet
+www.g2g.com###cookie-notice
 www.gadgetguy.com.au##.gpt-ad
 www.gizchina.com###cookie-notice
 www.gizchina.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
@@ -244,6 +247,7 @@ www.itechtics.com###social-rocket-floating-buttons
 www.itechtics.com##.jetpack_subscription_widget
 www.kitguru.net###bg_url_kg.background-cover
 www.lydogbilde.no##.popup-overlay
+www.magnetdl.com##[src="/img/nor.png"]
 www.maketecheasier.com##.ad-slot
 www.makeuseof.com##[class^="related"]
 www.massiveepicfail.com##.g1-newsletter-as-row
@@ -258,6 +262,8 @@ www.minecraftforum.net##.xt-placement
 www.mytrendyphone.no###cookie_alert
 www.mytrendyphone.no##.verticalSliderWrapper.featuredList.topHeadline
 www.nettavisen.no##p > b:has-text(Les også:)
+www.newsbreak.com##.body-wrapper > div > .back-top-wrapper > .fixed-wrapper:nth-ancestor(2)
+www.newsbreak.com##div.docCard > .no-padding.no-shadow
 www.nexusmods.com##.clearfix.video-ad
 www.nexusmods.com##div.clearfix.agroup
 www.nitecorestore.com##.shipping-deal
@@ -273,6 +279,7 @@ www.pocket-lint.com##.ads-content
 www.pocket-lint.com##.im-desktop.block-leader.block
 www.pocket-lint.com##.squirrel_widget
 www.pocket-lint.com##div.sticky_parent
+www.programmersought.com##div[id*="ads"]
 www.proshop.no##.hidden-xs.row
 www.proshop.no##div > .site-row-margin-top-small.row > .col-sm-12:nth-ancestor(1)
 www.psychologytoday.com##.advertisement-label
@@ -280,6 +287,8 @@ www.psychologytoday.com##.block-pt-ads
 www.raymond.cc##div[class^="adslot"]
 www.raymond.cc##div[class^="et_social"]
 www.raymond.cc##div[id$="_3-0"]
+www.reviewed.com##.email-signup__container.container
+www.reviewed.com##.tbrn-article__related-content-container
 www.rottentomatoes.com###social-tools
 www.sdxcentral.com##.lemur > .lemur-link:nth-ancestor(2)
 www.shacknews.com##.active.takeover-skin
@@ -287,6 +296,8 @@ www.shacknews.com##.side-rail-container > .vert.internal.ad
 www.snbforums.com##.js-replyNewMessageContainer.block-body > div
 www.snbforums.com##.leaderboard_snbad
 www.snbforums.com##.widget-container.widget-group-no-name.section
+www.speedguide.net##body > div:nth-of-type(4)
+www.speedguide.net##div[id*="-ad-"]
 www.tasteofhome.com###ads-container-single
 www.tasteofhome.com###flipboard-share
 www.tasteofhome.com##.at-element-marker.CMRightRail-AD
@@ -329,6 +340,8 @@ www.xda-developers.com##.amp-ad-bannerxda.amp-ad-in-content
 www.xda-developers.com##.amp-wp-content > div.amp-ad-alignment > .i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed
 www.xda-developers.com##.et_social_inline_bottom.et_social_mobile_on.et_social_inline
 www.xda-developers.com##.et_social_share
+x1337x.ws###M90304ScriptRootC221935
+yoolando.com##.adwish-wrapper
 ||comicbook.com/article/json/*$xhr,1p
 ||e24.no/stilling/carousel$subdocument
 ||i1.wp.com/media.criticalhit.net/*2020/06/last-of-us-part-2-w.jpg$image
