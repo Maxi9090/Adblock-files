@@ -1,8 +1,5 @@
 https://filters.adavoid.org/ultimate-ad-filter.txt
-
-Additional Filters:
 https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
 
 Language Filters:
 https://filters.adtidy.org/android/filters/1.txt
