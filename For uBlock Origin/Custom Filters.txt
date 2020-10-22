@@ -13,6 +13,7 @@ https://easylist-downloads.adblockplus.org/cntblock.txt
 https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
 
 Other Filters:
+https://abp.oisd.nl/light
 https://block.energized.pro/blu/formats/filter
 https://block.energized.pro/extensions/porn-lite/formats/filter
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
@@ -20,6 +21,3 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://raw.githubusercontent.com/AFNIL-AntiFakeNewsInternationalList/AFNIL/master/AFNIL-ABP-uBO.txt
 https://github.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
-
-
-https://jspenguin2017.github.io/uBlockProtector/
