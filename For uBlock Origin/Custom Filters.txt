@@ -10,7 +10,7 @@ https://easylist-downloads.adblockplus.org/cntblock.txt
 https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
 
 Other Filters:
-https://abp.oisd.nl/light
+https://abp.oisd.nl/light | https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp_light.txt
 https://block.energized.pro/blu/formats/filter
 https://block.energized.pro/extensions/porn-lite/formats/filter
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
