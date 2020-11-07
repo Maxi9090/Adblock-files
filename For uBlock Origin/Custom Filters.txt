@@ -10,11 +10,10 @@ https://easylist-downloads.adblockplus.org/cntblock.txt
 https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt
 
 Other Filters:
-https://abp.oisd.nl/light | https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp_light.txt
-https://block.energized.pro/blu/formats/filter
-https://block.energized.pro/extensions/porn-lite/formats/filter
+https://abp.oisd.nl/ | https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp.txt
+https://block.energized.pro/spark/formats/filter
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
-https://raw.githubusercontent.com/AFNIL-AntiFakeNewsInternationalList/AFNIL/master/AFNIL-ABP-uBO.txt
+https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/youtube_wo_tonikaku_filter.txt
 https://github.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
