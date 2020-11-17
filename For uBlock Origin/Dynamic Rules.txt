@@ -1,5 +1,7 @@
+no-cosmetic-filtering: diversion.ch true
 no-cosmetic-filtering: www.asus.com true
 no-cosmetic-filtering: www.curseforge.com true
+no-cosmetic-filtering: forum.dd-wrt.com true
 no-cosmetic-filtering: www.fanatical.com true
 no-cosmetic-filtering: accounts.google.com true
 no-cosmetic-filtering: docs.google.com true
@@ -11,11 +13,8 @@ no-cosmetic-filtering: myaccount.google.com true
 no-cosmetic-filtering: play.google.com true
 no-cosmetic-filtering: remotedesktop.google.com true
 no-cosmetic-filtering: support.google.com true
-no-cosmetic-filtering: translate.google.com true
-no-cosmetic-filtering: www.google.com true
-no-cosmetic-filtering: skylum.com true
-no-cosmetic-filtering: translate.google.no true
-no-cosmetic-filtering: www.google.no true
+no-cosmetic-filtering: outlook.live.com true
+no-strict-blocking: img.ifunny.co true
 no-strict-blocking: www.addthis.com true
 no-strict-blocking: s.click.aliexpress.com true
 no-strict-blocking: cloudflare-dns.com true
@@ -27,6 +26,7 @@ no-strict-blocking: ppcprotect.com true
 no-strict-blocking: vectorstock.com true
 no-strict-blocking: www.xnview.com true
 no-strict-blocking: openuserjs.org true
+no-strict-blocking: www.express.co.uk true
 cloudflare-dns.com cloudflare-dns.com * allow
 www.xnview.com www.xnview.com * allow
 openuserjs.org openuserjs.org * allow
