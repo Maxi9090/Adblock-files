@@ -6,13 +6,10 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-a
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 
-Filters replacing main filters:
+Main Filters:
 https://filters.adavoid.org/ultimate-ad-filter.txt
 
-Other Filters:
-https://raw.githubusercontent.com/AFNIL-AntiFakeNewsInternationalList/AFNIL/master/AFNIL-ABP-uBO.txt
-
 Big Filters:
-https://block.energized.pro/bluGo/formats/filter
-https://block.energized.pro/extensions/porn-lite/formats/filter
+https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+https://block.energized.pro/spark/formats/filter
