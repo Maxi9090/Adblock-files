@@ -1,11 +1,8 @@
-https://openuserjs.org/scripts/navchandar/Google_Image_Direct_View
-https://openuserjs.org/install/navchandar/Google_Image_Direct_View.user.js
+https://github.com/navchandar/Share-Less/raw/master/Userscript.user.js
 
-https://openuserjs.org/scripts/navchandar/Share_Less_-_URL_tracking_remover
-https://openuserjs.org/install/navchandar/Share_Less_-_URL_tracking_remover.user.js
+https://greasyfork.org/scripts/398189-google-image-direct-view/code/Google%20Image%20Direct%20View.user.js
 
-https://openuserjs.org/scripts/nokeya/Direct_links_out
-https://openuserjs.org/install/nokeya/Direct_links_out.user.js
+https://greasyfork.org/scripts/15857-direct-links-out/code/Direct%20links%20out.user.js
 
 https://greasyfork.org/scripts/18491-ads-dom-remover/code/Ads%20DOM%20Remover.user.js
 
