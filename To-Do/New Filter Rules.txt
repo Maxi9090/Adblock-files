@@ -1,1 +1,73 @@
+!Empty Ads:
+www.healthline.com##.undefined.article-body > div > div > div
+www.psychiatrictimes.com##.leaderboard-ad-wrapper
+techcult.com##.code-ad-label
+www.fastcompany.com##.dianomiScriptContainer
+www.carousell.com.my##div[id^="ad"]:has-text(Advertisement):nth-ancestor(1)
+geekculture.co##.code-block
+itavisen.no##.td-adspot-title
+itavisen.no##.td-header-sp-rec
+happyride.se##.anp1-container.hidden-xs
+www.diskusjon.no##.ipsLayout_container.love-placeholder.diskusjon-innlegg
+www.mmorpg.com###mmorpg_300x250_2
 
+!Pop-up annoyance:
+||video.ibm.com/embed/*autoplay=true$subdocument
+www.newegg.com###modal-block-eu
+www.newegg.com##.modal-backdrop
+
+!Related annoyance:
+www.dagsavisen.no##p > strong
+www.dagsavisen.no##.responsive-block.articleText > strong
+www.indiewire.com##.variant-original.c-related
+www.digi.no##.related-article-placeholder.related-article
+www.vg.no##p > *:has-text(/Les også:/i):nth-ancestor(1)
+www.vi.no##.body-copy > article.preview
+www.fastcompany.com##.post__content > .post__article > div > p:has-text(Related:)
+latestintech.com##.clearfix.inline-post
+www.techrepublic.com##strong
+geekculture.co##.entry-content > div .ctaText:nth-ancestor(3)
+www.clubhdtv.com##.entry-content > div > * > div > .postTitle:nth-ancestor(3)
+
+!Newsletter annoyance:
+www.indiewire.com##.right-side > .u-padding-tb-20
+www.indiewire.com##.article-singup-link
+www.gamespot.com##.nlsub-embed.nlsub.js-nlsub
+www.displaydb.com##.subscription-container
+
+!Mobile ads:
+www.tomshardware.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+www.express.co.uk##.text-description > .i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+
+!Optional:
+community.acer.com##.UserSignature.Signature
+community.acer.com##.InfoMessage.DismissMessage
+community.acer.com##.promowrap
+
+!Other Annoyances:
+www.indiewire.com##.pmc-contextual-player
+www.fastcompany.com##.post--default.post > .post__sidebar
+adoptopenjdk.net##.align-center.alert
+latestintech.com##div.lates-widget.clearfix.zeen-widget.sidebar-widget
+latestintech.com##.zeen_facebook_like_box.clearfix.zeen-widget.sidebar-widget
+||mlxunhxveynj.i.optimole.com/*/w:auto/h:auto/q:100/$image
+||mlxunhxveynj.i.optimole.com/*/w:730/h:90/*/$image
+support.microsoft.com##.m365trial_railbanner
+www.repairlap.com##.rep_welcomeSection
+softwaretested.com##.winp-text-snippet-container
+softwaretested.com##.custom-html-widget.textwidget
+softwaretested.com##.buttontable
+softwaretested.com##strong > [href^="https://outbyte.com/"]:nth-ancestor(2)
+||www.lanner-america.com/wp-content/uploads/contact-us-blog.png$image
+www.lanner-america.com##.elementor > .elementor-section-wrap
+www.clubhdtv.com##.wp-block-image
+careerkarma.com##.cf.entry-content.post-content > div
+www.digitalimpuls.no##.rsWithBullets.slides_container.rsDefault.royalSlider
+
+@@||www.itechtics.com/detroitchicago/*$script,domain=www.itechtics.com
+@@||apis.google.com^$domain=www.change.org|animoto.com|en.gamigo.com|www.myheritage.com
+@@||imageproxy.ifunny.co^$image,1p
+@@||ifunny.co/images/*$image,1p
+@@||img.ifunny.co/videos/*$media,1p
+@@||www.xnview.com^$domain=www.xnview.com
+@@||cdn2.europris.no/static/*$script,domain=www.europris.no
