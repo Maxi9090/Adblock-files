@@ -15,6 +15,7 @@ api.vipps.no
 api.wirecard.com
 app.klarna.com
 bandcamp.com
+bugreports.qt.io
 checkout.bambora.com
 checkout.stripe.com
 cid.capcom.com
