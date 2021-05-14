@@ -1,9 +1,0 @@
-https://github.com/navchandar/Share-Less/raw/master/Userscript.user.js
-
-https://greasyfork.org/scripts/398189-google-image-direct-view/code/Google%20Image%20Direct%20View.user.js
-
-https://greasyfork.org/scripts/15857-direct-links-out/code/Direct%20links%20out.user.js
-
-https://greasyfork.org/scripts/18491-ads-dom-remover/code/Ads%20DOM%20Remover.user.js
-
-https://greasyfork.org/scripts/382482-assassinate-ad-block-blockers/code/Assassinate%20Ad%20Block%20Blockers.user.js

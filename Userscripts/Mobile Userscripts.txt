@@ -1,0 +1,5 @@
+https://greasyfork.org/scripts/15857-direct-links-out/code/Direct%20links%20out.user.js
+
+https://greasyfork.org/scripts/18491-ads-dom-remover/code/Ads%20DOM%20Remover.user.js
+
+https://greasyfork.org/scripts/423851-simple-youtube-age-restriction-bypass/code/Simple%20YouTube%20Age%20Restriction%20Bypass.user.js

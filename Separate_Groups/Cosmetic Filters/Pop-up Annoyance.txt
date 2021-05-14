@@ -1,0 +1,30 @@
+amodrn.com##.active.modal-wrap > .subscribe-wrap.content-block.content-subscribe-style.content-subscribe:upward(1)
+answers.microsoft.com##.footeroutside
+bjorn3d.com###check-also-box.show-check-also
+fragmeta.com##.jeg_popup_post
+indianexpress.com###append_cubebox_box
+kastelshoes.com##.mount-popup:has(.popup-content)
+play3r.net##.td-front-end-display-block.td-more-articles-box
+stackify.com##div.elementor-popup-modal.dialog-type-lightbox
+support.logmeininc.com##.care-qualtrics-survey
+support.logmeininc.com##.care-qualtrics-survey__container
+support.logmeininc.com##.showSurvey
+whatvwant.com##.mfp-ready.fadeIn.animated
+www.abcnyheter.no##.visible.o-layout__module.c-jump-next
+www.auslogics.com###popup.modal-container
+www.criticalhit.net###bdCheckAlso
+www.criticalhit.net##.gotop
+www.goalzero.com##.footer__block-email__open
+www.grammarly.com##div[class$="-overlay"]
+www.health.com##.jumpstart-video > .jumpstart-player-sticky.jumpstart-js.video-js
+www.howtogeek.com##div[id^="v2campaignpopup"]
+www.komando.com##.k3-prefs-center-modal-background
+www.lydogbilde.no##.popup-overlay
+www.newegg.com###modal-block-eu
+www.newegg.com##.modal-backdrop
+www.newsbreak.com##.body-wrapper > div > .back-top-wrapper > .fixed-wrapper:upward(2)
+www.tasteofhome.com##div > .jw-reset.jw-wrapper > .jw-reset.jw-aspect
+www.techweekmag.com##.popup-overlay
+www.themobileindian.com##.hidden_add_desk.add_wrp
+www.tweaktown.com##.slide-in-bottom.zindexhuge.sticky.newsletter-overlay
+www.websiteplanet.com##.visible.tools-popup-ctrl-d

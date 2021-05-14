@@ -1,0 +1,50 @@
+css-tricks.com##.footer-newsletter.site-footer
+dbader.org##.email-cta-box
+e24.no##div div div div div div div.wrapper:has-text(nyhetsbrev)
+insidethemagic.net##.mc4wp-form-fields
+khrono.no##div.newsletter_submit:has(form.grid.content)
+pureinfotech.com###newswrapper
+searchengineland.com###sidebar-form
+searchengineland.com##.masthead-column > .masthead-form
+searchengineland.com##.row.subscribe
+selfhacked.com##.subscribe-form-container
+thenextweb.com##.newsletter
+wccftech.com##.clearfix.subscribe
+www.a2hosting.com##.article-subscribe.subscribe
+www.a2hosting.com##.newsletter-block
+www.advnture.com##.widget-newsletter
+www.britannica.com##.marketing-content
+www.cbsnews.com###component-newsletter-widget-breakingnews
+www.cbsnews.com##.newsletter_signup
+www.cinemablend.com##.form_newsletter_signup
+www.displaydb.com##.subscription-container
+www.fourfourtwo.com##.newsletter-signup.box
+www.gamesindustry.biz##.simple.newsletter-promo
+www.gamespot.com##.nlsub-embed.nlsub.js-nlsub
+www.healthline.com##form > div > .css-11k39sg
+www.howtogeek.com##.inpage-clean-style
+www.huffpost.com##.newsletter
+www.imore.com##aside.sidebar--fixed.sidebar
+www.independent.co.uk##.newsletter-component > .logged-out
+www.indiewire.com##.article-singup-link
+www.indiewire.com##.right-side > .u-padding-tb-20
+www.itechtics.com##.jetpack_subscription_widget
+www.itproportal.com##.newsletter-signup.box
+www.komplett.no##.newsletter-consent-container
+www.manchestereveningnews.co.uk##.factbox
+www.manchestereveningnews.co.uk##.skinny-signup-form
+www.massiveepicfail.com##.g1-newsletter-as-row
+www.medicalnewstoday.com##.undefined.article-body > div:has-text(newsletter):has-text(SIGN UP NOW)
+www.meftech.com.au##[class*="g1-newsletter"]
+www.nerdfitness.com##.nf-in-post-signup
+www.pcmag.com##div > [id^="email-form"]:upward(5):has-text(newsletter)
+www.pcworld.idg.com.au###quick-signup-article-widget
+www.petsradar.com##section.newsletter-signup.box
+www.reviewed.com##.email-signup__container.container
+www.rollingstone.com##.c-post-actions
+www.searchenginewatch.com##.single-post__sidebar-promo
+www.tasteofhome.com###ads-container-single
+www.tasteofhome.com##.newsletter-sign-below-header
+www.technologyreview.com##.newsletter__wrap
+www.thetechlounge.com##.mashsb-container
+www.walesonline.co.uk##.skinny-signup

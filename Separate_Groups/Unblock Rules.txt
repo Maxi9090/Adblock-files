@@ -1,0 +1,32 @@
+@@/detroitchicago/cmb.js$script,domain=gizmeek.com|www.thewindowsclub.com
+@@||accounts.google.com^$script,domain=reddit.com
+@@||api-2-0.spot.im^$xhr,domain=jac.yahoosandbox.com|www.pcmag.com|www.engadget.com|www.rt.com|www.rollingstone.com
+@@||api.vanilla.futurecdn.net/article/v3/related$xhr
+@@||apis.google.com^$domain=www.change.org|animoto.com|en.gamigo.com|www.myheritage.com
+@@||builder-assets.unbounce.com^$domain=fiverr.com
+@@||cdn.livefyre.com^$xhr,domain=slate.com
+@@||cdn.shortpixel.ai^$image
+@@||cdn.syndication.twimg.com^$xhr,domain=platform.twitter.com
+@@||cnet3.cbsistatic.com/fly/js/pages/*$script,domain=www.cnet.com
+@@||images.saymedia-content.com^$image
+@@||imagesvc.meredithcorp.io^$image,domain=www.allrecipes.com
+@@||jac.yahoosandbox.com/0.3.1/jac.js$script
+@@||jac.yahoosandbox.com^$subdocument,domain=techcrunch.com
+@@||jill.fc.yahoo.com/v1/client/*$script,domain=techcrunch.com|www.engadget.com
+@@||launcher.spot.im^$script,domain=jac.yahoosandbox.com
+@@||platform.twitter.com^$subdocument,script,domain=www.pcgamer.com
+@@||policy.app.cookieinformation.com^$domain=www.elkjop.no
+@@||schibsted.com^$domain=www.tek.no
+@@||sm.pcmag.com^$image,1p
+@@||space.com^$ghide,badfilter
+@@||ssl.p.jwpcdn.com/player/*
+@@||static.wikia.nocookie.net^$script,domain=www.fandom.com
+@@||whathifi.com^$ghide,badfilter
+@@||wired.com^$ghide,badfilter
+@@||www.addthis.com^$domain=www.addthis.com
+@@||www.bing.com^$domain=www.bing.com
+@@||www.videoproc.com^$domain=www.videoproc.com
+@@||yotpo.com^$domain=www.gymgrossisten.com|www.gymgrossisten.no
+www.cinemablend.com#@##leaderboard-ad
+www.freeletics.com#@##___gatsby div[class*="CookieConsent"]
+www.pcgamer.com#@#div[style*="display: flex;"]

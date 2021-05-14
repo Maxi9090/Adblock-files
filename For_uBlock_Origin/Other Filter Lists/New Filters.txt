@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dynamic_domain.txt
+https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/fakenews-de-ph.txt
+https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/regex.list

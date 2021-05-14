@@ -1,0 +1,9 @@
+###ezmobfooter
+##.ad-wrapper
+##.adsbygoogle
+##.adunit-wrapper
+##.ezoic-ad
+##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+##.onesignal-customlink-container
+##div.related-articles-block
+##div.van_vid_carousel.vid-present

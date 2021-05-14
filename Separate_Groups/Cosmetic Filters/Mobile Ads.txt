@@ -1,0 +1,69 @@
+ampproject.org##.ad-zone-container
+ampproject.org##.articleBody > ul > li
+ampproject.org##.clearfix.widget.trending-main
+ampproject.org##.connatix-container
+ampproject.org##.follow-promo > a > amp-img:upward(2)
+ampproject.org##.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.newzit-embed.iframe-autoheight.metro-iframe
+ampproject.org##.outbrain-wrapper
+ampproject.org##.share-button
+ampproject.org##.zone-post-strip > .zopo-more:upward(1)
+ampproject.org##div > amp-jwplayer
+ampproject.org##div.metro-amp-ad-outer
+borsen.dagbladet.no##.mobile-only.slide-in-banner
+dinside.dagbladet.no##.mobile-only.slide-in-banner
+gadgets.ndtv.com##.__wdgt_rhs_kpc
+gadgets.ndtv.com##._ftdapp > a[href]:nth-of-type(3)
+gadgets.ndtv.com##._ftdapp > div._hd:nth-of-type(2)
+gadgets.ndtv.com##.clear > .i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+kotaku.com##div > div > amp-embed
+m.freepressjournal.in##.amp_Ad
+m.freepressjournal.in##div.amp_Ad_4
+metro.co.uk##.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.newzit-embed.iframe-autoheight.metro-iframe
+metro.co.uk##.share-button
+metro.co.uk##div.metro-amp-ad-outer
+tech.hindustantimes.com##p > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+thenextweb.com##.i-amphtml-layout.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+variety.com,arstechnica.com##amp-embed[type="outbrain"]
+www.androidauthority.com###scrolled_view_bar
+www.androidauthority.com##.aa-bottom-header-section
+www.collinsdictionary.com##.flyingcarpet.mpuslot.amp-container
+www.computerworld.com##.ad-container
+www.dailymail.co.uk###swipeIndicator.show
+www.dailymail.co.uk##.heading-tag-switch > div [href*="newzit"] [class*="promo"]:upward(6)
+www.dailymail.co.uk##div.news.vjs-video-container > .vjs-visually-ready.mol-empty-playlist.no-volume-slider.vjs-paused:upward(3)
+www.deseret.com##.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element:not(.image):not(.i-amphtml-replaced-content):not(.i-amphtml-fill-content)
+www.dinside.no##.AdWrapper__AdBase-sc-13mqeo1-0
+www.dinside.no##.adunit
+www.dinside.no##.slide-in-banner.mobile-only.slide-in-banner > .close-icon > svg:upward(2)
+www.express.co.uk##.clear.ra.box
+www.express.co.uk##.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+www.express.co.uk##.new-style.clearfix > div.clear.tra.box
+www.express.co.uk##.text-description > .i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+www.firda.no##smart-banner
+www.firstpost.com##.amp-unresolved.i-amphtml-unresolved
+www.firstpost.com##.next-btn-strip
+www.firstpost.com##amp-fx-flying-carpet
+www.gamesradar.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.gizchina.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+www.manchestereveningnews.co.uk##amp-embed[type="taboola"]
+www.pcgamer.com##amp-ad
+www.pcgamesn.com##.ad-amp
+www.pcgamesn.com##.ad-mpu
+www.polygon.com##.i-amphtml-layout.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+www.popularmechanics.com##.amp-gallery-module
+www.techradar.com##.articleBody.row > .i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+www.techradar.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined
+www.themobileindian.com##.i-amphtml-layout.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+www.themobileindian.com##div.amp-ad
+www.theverge.com##.i-amphtml-layout.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+www.tomsguide.com##.mobile-leaderboard-320-50:upward(1)
+www.tomshardware.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-video-interface.i-amphtml-media-component.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+www.tweaktown.com##div.px3.mb4 > .i-amphtml-layout-responsive
+www.vg247.com##.i-amphtml-new-loader-ad-logo:upward(5)
+www.walesonline.co.uk##.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.html-content > i-amphtml-sizer
+www.walesonline.co.uk##.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.converse
+www.walesonline.co.uk##.i-amphtml-list-fetch-error.read-next-header.whats-hot.read-next
+www.whathifi.com##.advertisement-label:upward(1)
+www.whathifi.com##.mobile-leaderboard-320-50:upward(1)
+www.wired.com##.related-video
+www.wired.com##div.inset-left.callout

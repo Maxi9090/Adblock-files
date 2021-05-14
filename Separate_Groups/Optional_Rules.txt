@@ -1,0 +1,15 @@
+imgur.com##.BottomRecirc
+imgur.com##.Gallery-Sidebar-Wrapper
+wikipedia.org###siteNotice
+www.alphr.com##header
+www.bungie.net##.sidenav_promo
+www.curseforge.com###reply
+www.facebook.com##span[id^="jsc_c_"] > a > span > b:upward(21)
+www.fanatical.com##.blog-grouped-content > .responsive-image:has(.img-fluid)
+www.fandom.com##.feed-layout__main
+www.gamersheroes.com##.theme_blue.sidebar_main.widget_area
+www.techweekmag.com##.sb-with-border.tipi-col.sticky-sb-on.sidebar-wrap.clearfix.block
+www.vice.com##.main-content > .inbody-article
+||ae01.alicdn.com/kf/H*.gif$image
+||cashfxgroup.com/portal/dashboard/assets/images/banners/*.png$image
+||netdna-ssl.com/*/files/*.gif$image

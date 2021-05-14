@@ -1,0 +1,194 @@
+adoptopenjdk.net##.align-center.alert
+android.gadgethacks.com##.footer-links > .center-frame > center
+android.gadgethacks.com##.left-col > .content-nav > .lockable-anchor:upward(2)
+android.gadgethacks.com##.wht-cta
+android.gadgethacks.com##aside > .center > p
+arstechnica.com##.cne-interlude.cne
+arstechnica.com##.prev-next-links
+becominghuman.ai##.dp.do.dn.dm.dl > .gx
+becominghuman.ai##.ni.nh.ng.nf.ne.nd
+becominghuman.ai##.s.hi > .kh
+becominghuman.ai##blockquote
+bestxiaomiproducts.com##.chat-bot-launcher-enabled.chat-bot-avatar-launcher.chat-bot-flex-end
+bestxiaomiproducts.com##aside.widget_media_image:has(a > img.lazyloaded)
+bestxiaomiproducts.com##div.wp-block-spacer
+careerkarma.com##.bialty-container > div.code-block > #container > .border-form-ajax:upward(2)
+careerkarma.com##.sidebar_inner > .is_ck_sidebar > a:upward(1)
+community.netgear.com##.notification-alert > *:has(.close-btn)
+community.netgear.com##.support-block
+community.netgear.com##div > a > img.responsive
+creativecow.net##div[class^="cowtracks"]
+css-tricks.com##.end-of-article-ads
+css-tricks.com##.respond > .comment-form-form-area > .comment-respond > .comment-form > .comment-form-comment:upward(4)
+dbader.org##.right-section > div:has(.rpad) > div
+dbader.org##article > div:has(.rpad) > div
+eu.usatoday.com##media-oembed.spacer-large.no-gutter.ten-column.column
+expertphotography.com##.bnr-cta.article-cta
+fandom.com###WikiaBar
+forums.whathifi.com##div.shareButtons-buttons:upward(2)
+fragmeta.com##.ads-wrapper
+gadgets.ndtv.com##.ads
+geekflare.com##.page-advertisement
+geekflare.com##.post-advertisement-sidebar
+helpx.adobe.com###helpful-pod
+helpx.adobe.com##.feds-drawer
+home-assistant-guide.com##.entry-content > div.aawp
+indianexpress.com##.breaking-news
+indianexpress.com##.js-btm-nav
+indianexpress.com##.pdsc-related-modify
+indianexpress.com##.rightpanel
+indianexpress.com##.share-social
+isthereanydeal.com###promo
+itavisen.no##div.share-it > a.tipi-tip
+kinsta.com###sidebar-cta-mini
+kotaku.com##.hQbMrh.sc-11d65nu-0
+laptopmedia.com##.lp-catalog-display-quality
+latestintech.com##.zeen_facebook_like_box.clearfix.zeen-widget.sidebar-widget
+latestintech.com##div.lates-widget.clearfix.zeen-widget.sidebar-widget
+lifehacker.com##.bLKndV.sc-16lj1xi-0
+lifehacker.com##.hQbMrh.sc-11d65nu-0
+lifehacker.com##aside.branded-item.inset--story
+linguaholic.com##.ipsSpacer_both > .ipsList_noSpacing.ipsList_reset.ipsType_center.ipsList_inline > .ipsAreaBackground_light.ipsResponsive_inlineBlock.ipsResponsive_showDesktop > [href^="https://linguaholic.com/index.php"] > .ipsContained.ipsImage
+linustechtips.com##.ipsSpacer_half.ipsSpacer_both > .ipsList_noSpacing.ipsList_reset.ipsType_center.ipsList_inline > .ipsAreaBackground_light.ipsResponsive_inlineBlock
+minershaven.fandom.com##div.fl-scrolls
+music.apple.com##.upsell-banner
+plugincrack.com##body > div > ins
+plugincrack.com##body > section
+reddit.com##div > a > h3:has-text(Top livestream):upward(7)
+reddit.com##div > a[href^="/rpan/r/"] > p:has-text(Live from the internet, this is RPAN):upward(7)
+searchengineland.com##.row.e-solutions
+selfhacked.com##.sponsored.sh-partner
+slickdeals.net###featureDealsAndCoupons
+slickdeals.net###omegaBanner
+slickdeals.net##.rightRailBannerModule
+software.informer.com##div.si_block
+softwaretested.com##.buttontable
+softwaretested.com##.custom-html-widget.textwidget
+softwaretested.com##.winp-text-snippet-container
+softwaretested.com##strong > [href^="https://outbyte.com/"]:upward(2)
+support.microsoft.com##.m365trial_railbanner
+tech.hindustantimes.com##.htTech-amp-infinite
+techcrunch.com##div.article-content > p > iframe.wpcom-protected-iframe
+tencomputer.com##.is-sticked.ruby-sidebar-sticky
+theprint.in##.mybotUnibots
+theprint.in##hr
+thinkmobiles.com##.bnr
+thinkmobiles.com##div.placat
+timesofindia.indiatimes.com##.gbhmV
+timesofindia.indiatimes.com##div.rel.clearfix > ._2364r > ._3S4xf._39qub
+timesofindia.indiatimes.com##div.rel.clearfix > ._2364r > div._133P8:has-text(Navbharat Times)
+variety.com##.pmc-contextual-player
+whatvwant.com##.inside-article > footer.entry-meta
+www.4kshooters.net##.ai_widget.widget
+www.4kshooters.net##.code-block > p > strong:upward(2)
+www.arthritis.org##.contributeBar-bar
+www.avforums.com##.p-body-sidebar
+www.back2gaming.com##._ning_inner
+www.back2gaming.com##.clearfix.zeen-widget.sidebar-widget.w-nt.h-ni
+www.britannica.com##.marketing-slider
+www.businessinsider.com##.popular-video
+www.businessinsider.com##.product-card
+www.chip.de##.Listing-Teaser--V02
+www.chip.de##.NewsArticle__ChapterVideo
+www.chip.de##.mb-md.bg-b-l.bg-gray.ar-16-9
+www.cinemablend.com###slot_rail.slot > div.link_list
+www.cinemablend.com##.footer-image > .image-container
+www.clubhdtv.com##.wp-block-image
+www.cnet.com###article-body > .col-4
+www.cnet.com##.i-amphtml-error
+www.countrylife.co.uk##section > p.simple-image
+www.criticalhit.net###reading-position-indicator
+www.criticalhit.net##.is-fixed.theia_sticky.bd-sidebar
+www.dagsavisen.no##.is-large.fat.cat-1.teaser
+www.dailymail.co.uk##.news.vjs-responsive.vjs-video-container
+www.digitalimpuls.no##.rsWithBullets.slides_container.rsDefault.royalSlider
+www.dignited.com##hr.wp-block-separator
+www.dinside.no##.content-adunit
+www.dinside.no##.native-advertisement
+www.dn.no##.carousel-wrapper--jobbsearch-narrow.carousel-wrapper
+www.eurogamer.net##.internal-link
+www.eurogamer.net##.video > div > .bb_wrapper
+www.eurogamer.net##section > .video
+www.express.co.uk##.i-amphtml-form.f
+www.express.co.uk##.mf.n
+www.express.co.uk##.n > .i-amphtml-layout
+www.express.co.uk##.ns-videoplayer.dx.video-player-container
+www.express.co.uk##.rh
+www.express.co.uk##.right-column
+www.express.co.uk##.right.box
+www.express.co.uk##.vf-body-text--deprecated.vf-trending-articles
+www.express.co.uk##section.box
+www.fastcompany.com##.post--default.post > .post__sidebar
+www.gardeningetc.com##aside.hawk-placeholder
+www.guidingtech.com##.hide-sm-upto.resetcoords.detail-sidebar
+www.guru3d.com##.content3 > div:nth-of-type(2)
+www.healthline.com##.css-11iztoc
+www.homesandgardens.com##.article__body > .product
+www.idealhome.co.uk##.injection
+www.independent.co.uk##.hebrLa.sc-fznLPX
+www.indiewire.com##.pmc-contextual-player
+www.jonloomer.com###mashbar-header
+www.jonloomer.com##.widget_promo-widget.widget
+www.jonloomer.com##div.after_widget
+www.jonloomer.com##div.before_widget
+www.kaspersky.com##div.kasbanner-image.kasbanner-banner
+www.kitguru.net###bg_url_kg.background-cover
+www.lanner-america.com##.elementor > .elementor-section-wrap
+www.manchestereveningnews.co.uk##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.html-content
+www.manchestereveningnews.co.uk##.iya
+www.mytrendyphone.no##.verticalSliderWrapper.featuredList.topHeadline
+www.nettavisen.no##.adp-inscreen.lp_smartembed_youplay
+www.nettavisen.no##amedia-include
+www.nettavisen.no##amedia-smartembed.adp-inscreen.lp_smartembed_flowplayer
+www.news18.com##.horoscope-slider
+www.news18.com##.jio_widgetAmp
+www.nextpit.com##.fixed-element_fixed.gptSlot__sticky-footer
+www.nextpit.com##.sticky-share-bar__right
+www.nitecorestore.com##.shipping-deal
+www.npr.org###player-react-mount
+www.pcgamer.com###disqus_recommendations
+www.pcgamer.com##.related-articles-block:has(#expanding-articles)
+www.pcgamesn.com##.entry-content > .jw-wrapper
+www.pcgamesn.com##.entry-content > div.responsive-container
+www.pcworld.idg.com.au###footerbar
+www.podcastinsights.com##.code-block
+www.podcastinsights.com##.podcast-player
+www.podcastinsights.com##.widget-area
+www.podcastinsights.com##.widget-wrap
+www.popularmechanics.com##.body-h4
+www.popularmechanics.com##.body-ul > li
+www.popularmechanics.com##hr
+www.popularmechanics.com##p.body-text > strong > mark > .body-link:upward(3)
+www.proshop.no##.site-background-banner.visible-lg
+www.proshop.no##.site-campaigns-area > .site-row-margin-top-small
+www.proshop.no##div > .site-row-margin-top-small.row > .col-sm-12:upward(1)
+www.proshop.no##div.loaded.lazy > .site-row-margin-top-small
+www.quora.com##.q-box > .qu-borderBottom.qu-pb--medium.q-box > span
+www.repairlap.com##.rep_welcomeSection
+www.roblox.com##.game-card-native-ad > .native-ad-label:upward(4)
+www.savethestudent.org##div.tip_container
+www.sdxcentral.com##.lemur > .lemur-link:upward(2)
+www.searchenginewatch.com##.bottom.fixed
+www.searchenginewatch.com##.inline-whitepaper-promo-content
+www.shacknews.com##.active.takeover-skin
+www.shacknews.com##.side-rail-container > .vert.internal.ad
+www.smarthomebeginner.com##.artl-cnt.cntn-wrp > blockquote
+www.smarthomebeginner.com##.ss-ic.s_stk > ul
+www.sportskeeda.com##hr
+www.tasteofhome.com##.at-element-marker.CMRightRail-AD
+www.tasteofhome.com##.non-contextual-video
+www.techporn.ph##.code-block
+www.techpowerup.com##a.habe
+www.techradar.com##.related-articles-block
+www.techrepublic.com##.story-body > p > strong:upward(1)
+www.techwalla.com##.component-article-jwplayer-wrapper
+www.themobileindian.com##.article-lt
+www.themobileindian.com##.articlevdo
+www.themobileindian.com##.sidebar
+www.thesaurus.com###marketingBanner-right-button
+www.tomsguide.com##.read-more-container
+www.tu.no##.inline-preamble-link.preamble
+www.urbandictionary.com##.mug-ad
+www.walesonline.co.uk##.iya
+www.walesonline.co.uk##.read-more-group
+www.windows10forums.com##div.message--post.message

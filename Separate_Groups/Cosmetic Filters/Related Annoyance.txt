@@ -1,0 +1,110 @@
+##.body-copy > article.preview
+ampproject.org##div > p > strong:has-text(MORE:)
+arstechnica.com##.inline-playlist
+business.tutsplus.com##ul.roundup-block--list.posts--half-width.roundup-block__contents
+careerkarma.com##.bialty-container > div > a > div > span.postTitle:upward(3)
+e-methodstechnologies.com##div.read-also-post
+e-methodstechnologies.com##div.recommend-post-blog
+e24.no##a.inline.imagePosition-top:has-text(Les )
+e24.no##div div div div div div div.css-0 > .default
+eu.usatoday.com##p > .exclude-from-newsgate > strong:upward(2)
+fandom.com###mixed-content-footer
+frifagbevegelse.no##p.tekst:has(a)
+gadgets.ndtv.com##.margin_b30.photo_list_widget.nlist
+geekculture.co##.entry-content > div .ctaText:upward(3)
+indianexpress.com##.m-story-link > .m-featured-link
+indianexpress.com##div.custom_read_button
+insidethemagic.net##.related-posts
+insidethemagic.net##blockquote > p > em > strong
+latestintech.com##.clearfix.inline-post
+linustechtips.com##li.ipsBox.ipsWidget_vertical > .lmg-card.ipsPad.ipsWidget_inner
+metro.co.uk##.clearfix.widget.trending-main
+metro.co.uk##.zone-post-strip > .zopo-more:upward(1)
+theprint.in##p > em > strong:upward(2)
+trd.by###content > div.x5x5.gridRow
+trd.by##div.default.news.article
+windowsreport.com##.wl-navigator__bottom
+www.abcnyheter.no##div.dp-plugin-related
+www.abcnyheter.no##p > .related-article:upward(1)
+www.abcnyheter.no##p > b:upward(1)
+www.adressa.no##.mnd-big.default.polarisStories.widget
+www.aftenbladet.no###recommended
+www.aftenposten.no##a.extendedContent
+www.amazon.com###rhf-shoveler
+www.androidauthority.com##.shortcodes_wrapper.aa_srma_container:has(.related_articles_wrapper)
+www.androidauthority.com##.the-content > .clearfix > p:has(strong:has-text(Related:))
+www.androidauthority.com##p.amp-wp-cdd8ca0:has(strong)
+www.britannica.com##.border.quiz-module.info-module
+www.cbsnews.com##.recirculation
+www.clubhdtv.com##.entry-content > div > * > div > .postTitle:upward(3)
+www.computerworld.com##.fakesidebar-auto
+www.cyclingnews.com##.fancy-box
+www.dagsavisen.no##.responsive-block.articleText > strong
+www.dagsavisen.no##P > em > strong:upward(2)
+www.dagsavisen.no##p > strong
+www.dailymail.co.uk###infinite-list
+www.dailymail.co.uk##.cleared.articleWide > .beta
+www.dailymail.co.uk##.more
+www.deseret.com##.c-compact-river
+www.deseret.com##.c-read-more
+www.deseret.com##div.related-stories
+www.digi.no##.related-article-placeholder.related-article
+www.dignited.com##p > strong:upward(1)
+www.essentiallysports.com##.relatedpost
+www.eurogamer.net##.mobile.below
+www.eurogamer.net##.portable.below
+www.express.co.uk##.clear.two-related-articles.box
+www.express.co.uk##p > strong:upward(1)
+www.fastcompany.com##.post__content > .post__article > div > p:has-text(Related:)
+www.forbes.com##.article-body > .link-embed.embed-base
+www.forbes.com##.article-body > .recirc-module:has(.recirc-module-body)
+www.forbes.com##.seo.recirc-module
+www.gamesindustry.biz##.count-2.spotlight
+www.gamesindustry.biz##.related-jobs
+www.gamesradar.com###disqus_recommendations
+www.gamesradar.com##.fancy-box
+www.gamesradar.com##.related-articles-block
+www.guidingtech.com##.campaign-ad
+www.health.com##div.paragraph > p > strong:has-text(RELATED: ):upward(2)
+www.homesandgardens.com##p > [href] > em > strong:upward(3)
+www.homesandgardens.com##ul > li > [href] > em > strong:upward(4)
+www.idealhome.co.uk##blockquote
+www.ign.com##.related-content > .video-recommendations
+www.independent.co.uk##.related.left
+www.indiewire.com##.variant-original.c-related
+www.komando.com##.post-body > p:has-text(RELATED:)
+www.livescience.com##.articleBody.row > .fancy-box
+www.livescience.com##.articleBody.row > p > strong:upward(1)
+www.livescience.com##.fancy-box
+www.lydogbilde.no##.altartikkel
+www.macleans.ca##.single-article-text > blockquote > p > strong
+www.makeuseof.com##[class^="related"]
+www.manchestereveningnews.co.uk##.read-more-group
+www.mineralresourcesint.com##.fusion-text > p:has-text(Related article:)
+www.minitool.com##div.article-recommend
+www.nationen.no##div.link > .text-container > .read_more:upward(2)
+www.nettavisen.no##p > b:has-text(Les også:)
+www.news18.com##p > strong:upward(1)
+www.newsbreak.com##div.docCard > .no-padding.no-shadow
+www.pcworld.idg.com.au##aside.readmore
+www.popularmechanics.com##div.embed-editorial-links.embed
+www.reviewed.com##.tbrn-article__related-content-container
+www.rollingstone.com##.c-related-links-wrapper
+www.smarthomebeginner.com##.relatedpost
+www.sportskeeda.com##p > strong:has-text(Also Read: )
+www.techradar.com###article-body > ul > li
+www.techrepublic.com##strong
+www.tek.no##a > div:has-text(Les også)
+www.theverge.com##.related-stories
+www.tomsguide.com###article-body > ul > li
+www.tomshardware.com##.related-articles-block
+www.trustedreviews.com##p > strong
+www.tu.no##.recirculation.frontpage
+www.tu.no##.related-article-placeholder.related-article > .link.flex > .text > .headline:upward(3)
+www.vg.no##a.css-1x73bv5.inline.imagePosition-top
+www.vg.no##a.css-coupcp.inline
+www.vg.no##div.css-outrh7.extendedContent
+www.vg.no##p > *:has-text(/Les også:/i):upward(1)
+www.wired.com##.grid-layout__aside.grid--item
+www.zdnet.com##div.relatedContent
+www.zdnet.com##p > strong:upward(1)
